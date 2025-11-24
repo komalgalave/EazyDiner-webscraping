@@ -1,0 +1,676 @@
+Restaurant_Name,Rating,Area,Dishes,Amount,Discount
+Brot Company,5.0,"Civil Lines, Jaipur","Bakery, Pan Asian, Continental",₹ 1600 for two approx.,20% Off + 25% Off
+Govindam Retreat,4.4,"Kanwar Nagar, Jaipur",Multicuisine,₹ 700 for two approx.,25% Off
+Spice Court,4.4,"Civil Lines, Jaipur","Multicuisine, Beverages",₹ 800 for two approx.,10% Off + 25% Off
+Cafe Auberge,4.8,"Civil Lines, Jaipur",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+Dyore Experiences,3.3,"C Scheme, Jaipur",Multicuisine,₹ 1800 for two approx.,20% Off + 25% Off
+Havana - Cafe Of Heaven,4.1,"Jagatpura, Jaipur",Multicuisine,₹ 600 for two approx.,25% Off
+Wunderground - Speakeasy & Chakna Bar,4.0,"Gopalbari, Jaipur","Finger Food, Cocktail Menu",₹ 1200 for two approx.,15% Off + 25% Off
+Daniel's Oriental Kitchen,4.0,"Gopalbari, Jaipur  | View All(2) Outlets",oriental,₹ 800 for two approx.,15% Off + 25% Off
+Nibs Cafe & Chocolataria,4.4,"Gopalbari, Jaipur",Cafe,₹ 600 for two approx.,20% Off + 25% Off
+Spice It,3.8,"Ibis Hotel, Jaipur",Multicuisine,₹ 1600 for two approx.,30% Off + 25% Off
+Wunderland By Townsend,5.0,"Gopalbari, Jaipur",Multicuisine,₹ 1500 for two approx.,25% Off + 25% Off
+Le Farsan - Rooftop & Cafe,5.0,"C Scheme, Jaipur",Indian,₹ 1300 for two approx.,25% Off + 25% Off
+Barista Coffee,4.8,"C Scheme, Jaipur  | View All(5) Outlets","Cafe, Coffee",₹ 300 for two approx.,40% Off + 25% Off
+Waraahi,3.6,"C Scheme, Jaipur",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Peshawri,4.5,"ITC Rajputana Hotel, Jaipur",North West Frontier,₹ 4500 for two approx.,10% Off + 25% Off
+Little French Home,5.0,"Gopalbari, Jaipur",Continental,₹ 1200 for two approx.,25% Off + 25% Off
+Vegetrainian - The Train Restaurant,4.1,"Lal Kothi, Jaipur",Multicuisine,₹ 700 for two approx.,45% Off + 25% Off
+Monarch - World Dining,4.3,"Holiday Inn Jaipur City Centre, Jaipur",Multicuisine,₹ 2300 for two approx.,40% Off + 25% Off
+Le Farsan - Thali Restaurant,2.3,"C Scheme, Jaipur",Indian,₹ 1000 for two approx.,10% Off + 25% Off
+Knighthouse,4.3,"C Scheme, Jaipur","Cocktail Menu, Multicuisine",₹ 1700 for two approx.,20% Off + 25% Off
+Chaat Bistro,4.0,"Civil Lines, Jaipur",Chaat,₹ 800 for two approx.,15% Off + 25% Off
+Farmacy - A Healthy Restaurant By Doctors,5.0,"C Scheme, Jaipur",Multicuisine,₹ 800 for two approx.,15% Off + 25% Off
+Retreat Drink And Dine,4.3,"C Scheme, Jaipur",Multicuisine,₹ 1000 for two approx.,30% Off + 25% Off
+Thirsty Camel,5.0,"Hathroi, Jaipur",Multicuisine,₹ 1600 for two approx.,20% Off + 25% Off
+Café White Sage,4.8,"Civil Lines, Jaipur",Multicuisine,₹ 1900 for two approx.,10% Off + 25% Off
+The Colonnade,4.7,"Rajmahal Palace, Jaipur",Multicuisine,₹ 6000 for two approx.,Cover Charge + 25% Off
+Mamu's Infusion,4.3,"C Scheme, Jaipur  | View All(5) Outlets",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Baramasi,3.7,"C Scheme, Jaipur",Multicuisine,₹ 1000 for two approx.,25% Off + 25% Off
+Brewvana Coffee House,4.0,"C Scheme, Jaipur","Cafe, Coffee and Tea",₹ 1200 for two approx.,25% Off + 25% Off
+Masala Ministry,4.2,"C Scheme, Jaipur  | View All(2) Outlets","Continental, North Indian",₹ 1000 for two approx.,40% Off + 25% Off
+Zarza Club & Terrace,4.1,"Bais Godam, Jaipur",Multicuisine,₹ 1500 for two approx.,55% Off + 25% Off
+UP&UP,4.0,"Tonk Road, Jaipur",Multicuisine,₹ 1200 for two approx.,45% Off + 25% Off
+Veda by Jaipur Coffee Co.,4.0,"Hathroi, Jaipur",Multicuisine,₹ 1400 for two approx.,20% Off + 25% Off
+Native Cocktail Room,5.0,"Hotel Pearl Palace, Jaipur",Multicuisine,₹ 2000 for two approx.,25% Off :Payeazy
+Opera,4.4,"C Scheme, Jaipur","Cafe, Multicuisine",₹ 1300 for two approx.,25% Off + 25% Off
+Baari- The House of Fusion,4.0,"Gopalbari, Jaipur",Multicuisine,₹ 800 for two approx.,30% Off + 25% Off
+Jaipur Modern Kitchen,4.6,"C Scheme, Jaipur","Multicuisine, Beverages",₹ 1200 for two approx.,25% Off + 25% Off
+Twenty One Bar & Cafe,4.3,Fairfield by Marriott Jaipur,"Cocktail Menu, Multicuisine",₹ 1000 for two approx.,35% Off + 25% Off
+Meraaki Kitchen,4.2,"Civil Lines, Jaipur","North Indian, Italian, Chinese",₹ 1000 for two approx.,10% Off + 25% Off
+Sura - Cocktails & Cuisine,4.0,"Gopalbari, Jaipur",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Taverns Lounge and Curry House,5.0,"Gopalbari, Jaipur",Multicuisine,₹ 1400 for two approx.,30% Off + 25% Off
+Napoli Jaipur,4.5,"Ashok Nagar, Jaipur","Italian, Pizza, Continental",₹ 1400 for two approx.,10% Off + 25% Off
+HYPE,4.2,"C Scheme, Jaipur",Cocktail Menu,₹ 800 for two approx.,25% Off + 25% Off
+Stepout Cafe,4.3,"C Scheme, Jaipur",Multicuisine,₹ 700 for two approx.,20% Off + 25% Off
+TGIH - Thank God It's Healthy,4.0,"Gopalbari, Jaipur",Healthy Food,₹ 900 for two approx.,25% Off + 25% Off
+The Yellow House -The Robot Restaurant,3.8,"MI Road, Jaipur","Mexican, Indian, Italian, Chinese",₹ 700 for two approx.,50% Off + 25% Off
+Chao - Chinese Bistro,4.4,"Holiday Inn Jaipur City Centre, Jaipur",Multicuisine,₹ 2500 for two approx.,25% Off + 25% Off
+Beans & Buns By Hotel Anuraag Villa,4.0,"Bani Park, Jaipur",Multicuisine,₹ 1000 for two approx.,20% Off + 25% Off
+Strings-Cocktail Lounge,4.0,"C Scheme, Jaipur","Cocktail Menu, Multicuisine",₹ 1600 for two approx.,20% Off + 25% Off
+Z Club,4.0,"Tonk Road, Jaipur",Multicuisine,₹ 1000 for two approx.,50% Off + 25% Off
+Sipsss,4.5,"Gopalbari, Jaipur",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+The Night Jar,4.3,"MI Road, Jaipur",Multicuisine,₹ 800 for two approx.,15% Off + 25% Off
+Brewlicious Rooftop Bar,4.5,"C Scheme, Jaipur","Cocktail Menu, Multicuisine",₹ 2000 for two approx.,30% Off + 25% Off
+Kalyan Rooftop And Indoor Restaurant,4.2,"Gopalbari, Jaipur",Multicuisine,₹ 600 for two approx.,10% Off + 25% Off
+Palila Cafe & Kitchen,4.0,"Gopalbari, Jaipur",Italian,₹ 900 for two approx.,15% Off + 25% Off
+Jaipur Pavilion,5.0,"ITC Rajputana Hotel, Jaipur",Multicuisine,₹ 1800 for two approx.,10% Off + 25% Off
+Jal Mahal,5.0,"ITC Rajputana Hotel, Jaipur  | View All(2) Outlets",Multicuisine,₹ 3300 for two approx.,10% Off + 25% Off
+Handi Restaurant,4.2,"MI Road, Jaipur  | View All(2) Outlets",Multicuisine,₹ 1200 for two approx.,10% Off + 25% Off
+Sheesh Mahal,4.0,"ITC Rajputana Hotel, Jaipur","Finger Food, Cocktail Menu",₹ 2200 for two approx.,10% Off + 25% Off
+Sirka,4.5,"C Scheme, Jaipur",Indian,₹ 1300 for two approx.,35% Off + 25% Off
+Kaleidoscope,4.4,"C Scheme, Jaipur  | View All(2) Outlets",Multicuisine,₹ 1000 for two approx.,20% Off + 25% Off
+Arth Spaces,4.0,"C Scheme, Jaipur",Cafe,₹ 900 for two approx.,10% Off + 25% Off
+Nibs Experia,4.3,"C Scheme, Jaipur  | View All(2) Outlets","Multicuisine, Cafe",₹ 700 for two approx.,20% Off + 25% Off
+Darbar Bar By Rajmahal Palace,5.0,"Rajmahal Palace, Jaipur",Finger Food,₹ 6000 for two approx.,Cover Charge + 25% Off
+Cafe Bae,4.5,"Hotel Las Vegas, Jaipur","Continental, Bakery",₹ 1500 for two approx.,30% Off + 25% Off
+Peacock Roof Top Restaurant,4.6,"Hotel Pearl Palace, Jaipur",Pan Asian,₹ 800 for two approx.,25% Off :Payeazy
+Aurum,4.5,"Hilton Jaipur, Jaipur",Multicuisine,₹ 3000 for two approx.,25% Off + 25% Off
+Merlot & co,5.0,"MI Road, Jaipur","Pan Asian, Continental",₹ 2000 for two approx.,25% Off + 25% Off
+Roadhouse Bar & Grill,4.5,"Holiday Inn Jaipur City Centre, Jaipur","Burgers, Sandwiches, Finger Food, Italian",₹ 2300 for two approx.,30% Off + 25% Off
+Carbon,4.4,"Ashok Nagar, Jaipur",Coffee,₹ 900 for two approx.,20% Off + 25% Off
+Diwali Festive Curations @ ITC Rajputana,4.0,"ITC Rajputana Hotel, Jaipur",Mithai,₹ 3000 for two approx.,25% Off :Payeazy
+The Lama,5.0,"C Scheme, Jaipur  | View All(2) Outlets",Multicuisine,₹ 800 for two approx.,25% Off :Payeazy
+Lighthouse,4.2,"Gopalpura, Jaipur",Multicuisine,₹ 1200 for two approx.,30% Off + 25% Off
+House of People (HOP),4.0,"Bais Godam, Jaipur",Multicuisine,₹ 1700 for two approx.,35% Off + 25% Off
+Khwaab By Malana,4.8,"Tonk Road, Jaipur",Multicuisine,₹ 1300 for two approx.,20% Off + 25% Off
+Blackout,3.7,"Hotel Golden Oak, Jaipur",Multicuisine,₹ 1800 for two approx.,50% Off + 25% Off
+Kohhee by The Night Jar,5.0,"C Scheme, Jaipur",Multicuisine,₹ 700 for two approx.,10% Off + 25% Off
+Rasa,5.0,"Bani Park, Jaipur",North Indian,₹ 2000 for two approx.,25% Off + 25% Off
+Diona - Ale Works | Kitchen | Bar,4.4,"Shyam Nagar, Jaipur","Cocktail Menu, Multicuisine",₹ 2000 for two approx.,20% Off + 25% Off
+Kahanee Restaurant,3.5,"Bani Park, Jaipur",Multicuisine,₹ 1300 for two approx.,20% Off + 25% Off
+B&B - Brew and Brunch,4.8,"C Scheme, Jaipur","Cafe, Coffee",₹ 700 for two approx.,25% Off + 25% Off
+Latte Lounge,5.0,"Ashok Nagar, Jaipur",Multicuisine,₹ 900 for two approx.,25% Off + 25% Off
+Kanha,4.2,"C Scheme, Jaipur  | View All(8) Outlets",Multicuisine,₹ 500 for two approx.,25% Off :Payeazy
+Kesar Sweets,5.0,"Lal Kothi, Jaipur","Indian, Continental",₹ 700 for two approx.,15% Off + 25% Off
+Pacha,4.0,"Sodala, Jaipur",Multicuisine,₹ 2000 for two approx.,15% Off + 25% Off
+Bonkey's,4.4,"Jyothi Nagar, Jaipur",Italian,₹ 1100 for two approx.,10% Off + 25% Off
+Tea Connect,5.0,"C Scheme, Jaipur  | View All(4) Outlets",Continental,₹ 500 for two approx.,10% Off + 25% Off
+Camiano Patisserie & Brasserie,4.7,"Ashok Nagar, Jaipur",Continental,₹ 1500 for two approx.,15% Off + 25% Off
+Soul Brewing Company,4.0,"Hotel Imperial,Jaipur",Multicuisine,₹ 2000 for two approx.,25% Off :Payeazy
+Thali and More,4.4,"C Scheme, Jaipur  | View All(6) Outlets",North Indian,₹ 600 for two approx.,25% Off :Payeazy
+Mosaic,4.3,"Radisson Jaipur City Center, Jaipur","Cocktail Menu, Multicuisine",₹ 1500 for two approx.,25% Off + 25% Off
+PURGATORY 777,3.4,"Ashok Nagar, Jaipur","Casual Eclectic, Multicuisine",₹ 2000 for two approx.,40% Off + 25% Off
+Sapphire,4.0,"Shahpura House, Jaipur",Multicuisine,₹ 2000 for two approx.,35% Off + 25% Off
+Topaz Restaurant - FineDine & Skydeck,4.8,"MI Road, Jaipur",Multicuisine,₹ 900 for two approx.,30% Off + 25% Off
+The Swinton House,4.2,"The Swinton House, Jaipur",Multicuisine,₹ 1800 for two approx.,20% Off + 25% Off
+Clock Tower,4.4,"Moti Doongri Rd, Jaipur","North Indian, Continental, Chinese, Italian",₹ 2700 for two approx.,15% Off + 25% Off
+OTH - On The House,4.5,"C Scheme, Jaipur",Multicuisine,₹ 1100 for two approx.,10% Off + 25% Off
+Skyza,4.3,"C Scheme, Jaipur","Cocktail Menu, Multicuisine",₹ 1200 for two approx.,20% Off + 25% Off
+Tan-Sukh,4.4,"C Scheme, Jaipur  | View All(9) Outlets",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+Chawla's MI Road (Since 1960),4.0,"MI Road, Jaipur",Multicuisine,₹ 1500 for two approx.,20% Off + 25% Off
+The Baradari,4.4,"Pink City, Jaipur",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Rustic by OTH,3.0,"C Scheme, Jaipur  | View All(2) Outlets","Chinese, Continental",₹ 1000 for two approx.,15% Off + 25% Off
+The Great Kabab Factory,4.5,"Radisson Jaipur City Center, Jaipur","Cocktail Menu, Mughlai",₹ 1700 for two approx.,25% Off + 25% Off
+14 Tables,4.5,"MI Road, Jaipur",Multicuisine,₹ 1600 for two approx.,25% Off + 25% Off
+Ten Kings Bar,5.0,"Holiday Inn Jaipur City Centre, Jaipur","Cocktail Menu, Finger Food",₹ 1800 for two approx.,30% Off + 25% Off
+Jaipur Local,4.3,"Lemon Tree Premier, Jaipur",Multicuisine,₹ 2000 for two approx.,15% Off + 25% Off
+Chaandi,4.4,"Hilton Jaipur, Jaipur","Indian, Cocktail Menu",₹ 3000 for two approx.,25% Off + 25% Off
+Gulabi Nagari,4.2,"Bani Park, Jaipur","North Indian, Chinese",₹ 1200 for two approx.,10% Off + 25% Off
+Krystal Bar,4.7,"Hilton Jaipur, Jaipur",Cocktail Menu,₹ 2500 for two approx.,25% Off + 25% Off
+Jaipur Adda,4.8,"Nirwana Hometel, Jaipur",Modern Indian,₹ 1200 for two approx.,20% Off + 25% Off
+Garden Grille,4.0,DoubleTree by Hilton Jaipur Amer,Barbeque,₹ 2000 for two approx.,25% Off + 25% Off
+The Bakery,4.0,"Holiday Inn Jaipur City Centre, Jaipur",Bakery,₹ 1200 for two approx.,25% Off + 25% Off
+Paro - Modern Indian Bar,4.2,"C Scheme, Jaipur",Indian,₹ 2000 for two approx.,20% Off + 25% Off
+Sangria,4.9,"MI Road, Jaipur","Finger Food, Multicuisine",₹ 1000 for two approx.,30% Off + 25% Off
+Reflect - Bistro & Kitchen,4.9,"C Scheme, Jaipur","Cocktail Menu, Multicuisine",₹ 1400 for two approx.,25% Off :Payeazy
+Townsend - Bar & Kitchen,4.4,"Adarsh Nagar, Jaipur",Multicuisine,₹ 1300 for two approx.,15% Off + 25% Off
+Lusty Lettuce,4.0,"Ashok Nagar, Jaipur",Continental,₹ 950 for two approx.,20% Off + 25% Off
+Delizia,5.0,"Ashok Nagar, Jaipur","Continental, Desserts, Pizza, Pasta, Fusion, Coffee",₹ 600 for two approx.,15% Off + 25% Off
+Olio Dugout with Rajasthan Royals,5.0,"Lal Kothi, Jaipur","Pizza, Pasta, Burgers",₹ 400 for two approx.,30% Off + 25% Off
+The Lamppost,4.3,"C Scheme, Jaipur",European,₹ 700 for two approx.,25% Off + 25% Off
+Nest by Noir at Bird Park,4.8,"Bani Park, Jaipur",Continental,₹ 900 for two approx.,10% Off + 25% Off
+Surya Mahal,4.2,"MI Road, Jaipur  | View All(2) Outlets",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+The Lounge,4.8,Intercontinental Jaipur,"Cocktail Menu, Multicuisine",₹ 1500 for two approx.,25% Off + 25% Off
+Henry's The Pub,4.3,"Hotel Park Prime, Jaipur","Finger Food, Cocktail Menu",₹ 2000 for two approx.,30% Off + 25% Off
+Nebulae,4.4,"Bais Godam, Jaipur",Multicuisine,₹ 1500 for two approx.,25% Off + 25% Off
+Grand Chanakya,2.9,"Leisure Inn Grand Chanakya, Jaipur",Rajasthani,₹ 1300 for two approx.,30% Off + 25% Off
+#BC,4.2,"Bani Park, Jaipur",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+Tea Affair,5.0,"C Scheme, Jaipur","Beverages, Fast Food",₹ 350 for two approx.,10% Off + 25% Off
+Nouba Kitchen and Bar,4.8,"C Scheme, Jaipur",Pan Asian,₹ 2000 for two approx.,15% Off + 25% Off
+Brown Sugar,4.3,"Bais Godam, Jaipur  | View All(12) Outlets","Beverages, Fast Food",₹ 400 for two approx.,20% Off + 25% Off
+Miroh,3.3,"C Scheme, Jaipur",Multicuisine,₹ 1650 for two approx.,15% Off + 25% Off
+The Vital Spark,4.0,"Sodala, Jaipur",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+Chill - Nirwana Hometel,3.7,"Nirwana Hometel, Jaipur","Cocktail Menu, Finger Food",₹ 1400 for two approx.,25% Off + 25% Off
+Oasis,4.5,"C Scheme, Jaipur",Multicuisine,₹ 1400 for two approx.,30% Off + 25% Off
+Sagar Ratna,4.2,"C Scheme, Jaipur  | View All(3) Outlets",South Indian,₹ 800 for two approx.,10% Off + 25% Off
+Souza Lobo - Since 1932,4.3,"Calangute, North Goa",Goan,₹ 1300 for two approx.,25% Off
+Noah,3.5,"Ozran Beach Road , Goa","European, Seafood, Sushi, Continental",₹ 1500 for two approx.,25% Off
+Tanjore Tiffin Room,4.7,"Anjuna, North Goa","Biryani, Finger Food, South Indian, Tamil Nadu",₹ 1000 for two approx.,25% Off
+Clara (Beach Haven),2.3,"Vagator, North Goa",Multicuisine,₹ 1500 for two approx.,25% Off
+Farzi Beach,3.8,"Morjim, North Goa",Multicuisine,₹ 1500 for two approx.,25% Off
+Tamil Table,4.8,"Assagao, North Goa",Tamil Nadu,₹ 1200 for two approx.,25% Off
+Anar,5.0,"Anjuna, North Goa",Middle Eastern,₹ 2000 for two approx.,25% Off
+Tikitii,3.9,"Morjim, North Goa",Continental,₹ 2000 for two approx.,25% Off
+Guldastaa Cafe,4.5,"Anjuna, North Goa",Regional Indian,₹ 1200 for two approx.,25% Off
+Ederra Cafe,5.0,"Panaji, North Goa",Cafe,₹ 800 for two approx.,25% Off
+Backyard Restaurant & Bar,5.0,"Calangute, North Goa",Multicuisine,₹ 1500 for two approx.,10% Off + 25% Off
+Ole Bar,4.0,"Morjim, North Goa",Multicuisine,₹ 1500 for two approx.,25% Off
+One Calangute,3.8,"Calangute, North Goa",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Tom's Resto By The Beach,5.0,"Calangute, North Goa",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Delhi Darbar,4.6,"Candolim, North Goa",North Indian,₹ 800 for two approx.,10% Off + 25% Off
+BunnyKins Cafe,4.0,"Calangute, North Goa",Multicuisine,₹ 900 for two approx.,10% Off + 25% Off
+Bharat Bar & Restaurant,4.0,"Baga, North Goa",Multicuisine,₹ 800 for two approx.,25% Off + 25% Off
+Novu Rooftop Dining,4.7,"Fort Aguada Rd, Candolim, North Goa",Multicuisine,₹ 1200 for two approx.,50% Off + 25% Off
+GROK,4.2,Hyatt Centric Candolim Goa,Goan,₹ 1200 for two approx.,35% Off + 25% Off
+Bloom Cafe,4.0,"Bloom Hotel ,Calangute",Multicuisine,₹ 1200 for two approx.,25% Off :Payeazy
+Cafe Fika,5.0,"Panaji, North Goa",Cafe,₹ 1000 for two approx.,30% Off + 25% Off
+Beans & Bistro,4.0,"Calangute, North Goa","Cafe, Coffee",₹ 400 for two approx.,10% Off + 25% Off
+Oceana Restaurant,4.0,"Calangute, North Goa","Indian, Continental",₹ 1000 for two approx.,10% Off + 25% Off
+Jazz Bistro,4.7,"Calangute Baga Road, Goa",Multicuisine,₹ 1000 for two approx.,Free Cocktail or Mocktail + 25% Off
+Krishna Bar & Restaurant,4.0,"Calangute, North Goa",Multicuisine,₹ 550 for two approx.,25% Off :Payeazy
+Spice It,5.0,"ibis, Calangute, Goa  | View All(2) Outlets",Multicuisine,₹ 1000 for two approx.,50% Off + 25% Off
+Purple Martini,4.1,"Anjuna, North Goa",Multicuisine,₹ 2500 for two approx.,25% Off :Payeazy
+Palms n Sands,4.1,"Candolim, North Goa",Multicuisine,₹ 2000 for two approx.,25% Off :Payeazy
+Niche Bistro,5.0,"Calangute, North Goa",European,₹ 1500 for two approx.,20% Off + 25% Off
+The Fisherman's Wharf,4.2,"Calangute, North Goa  | View All(3) Outlets",Goan,₹ 1100 for two approx.,25% Off :Payeazy
+Kailash Parbat,4.7,"Candolim, North Goa  | View All(2) Outlets",North Indian,₹ 600 for two approx.,25% Off :Payeazy
+Sizzler House,5.0,"Anjuna Vagator Road, Goa",Multicuisine,₹ 700 for two approx.,25% Off + 25% Off
+Pepper Bar and Restaurant,4.0,"Le Seasons Resort, Goa",Multicuisine,₹ 1200 for two approx.,40% Off + 25% Off
+You & Me,3.5,"Baga, North Goa",Multicuisine,₹ 900 for two approx.,25% Off + 25% Off
+Elrow Ocean Front,2.8,"Calangute Baga Road, Goa",Asian,₹ 2000 for two approx.,25% Off + 25% Off
+Saffron,4.4,"Arpora, North Goa",Multicuisine,₹ 800 for two approx.,25% Off + 25% Off
+Saipe,5.0,Hilton Goa Resort,Multicuisine,₹ 2400 for two approx.,35% Off + 25% Off
+Samudra Family Restaurant & Bar,5.0,"Calangute, North Goa",South Indian,₹ 500 for two approx.,10% Off + 25% Off
+Bean me Up,5.0,"Vagator, North Goa",Multicuisine,₹ 1200 for two approx.,25% Off + 25% Off
+Hibiscus,1.0,"Arpora, North Goa",Multicuisine,₹ 1000 for two approx.,35% Off + 25% Off
+Just Lobo's,4.7,"Calangute, North Goa","Goan, Multicuisine",₹ 1000 for two approx.,20% Off + 25% Off
+Musuh- The Fire Place,4.0,"Calangute, North Goa",Multicuisine,₹ 600 for two approx.,30% Off + 25% Off
+De Little Goa,4.0,"Calangute, North Goa",Indian,₹ 1500 for two approx.,15% Off + 25% Off
+Pickled Mango,5.0,"Bardez, North Goa",Multicuisine,₹ 1600 for two approx.,25% Off + 25% Off
+The Square,5.0,Novotel Goa Shrem Hotel,Multicuisine,₹ 2000 for two approx.,25% Off + 25% Off
+Brisa Do Mar,4.8,"Candolim, North Goa",Mediterranean,₹ 1800 for two approx.,50% Off + 25% Off
+La Cucina,4.8,"Morjim, North Goa  | View All(2) Outlets",Italian,₹ 1500 for two approx.,25% Off + 25% Off
+Angry Sardar Courtyard,4.5,"Anjuna, North Goa",North Indian,₹ 1200 for two approx.,15% Off + 25% Off
+LOVE THE PARK,4.1,The Park Calangute Goa,Multicuisine,₹ 1200 for two approx.,35% Off + 25% Off
+Deck 88,4.0,The Astor Goa,Indian Coastal Cuisine,₹ 2500 for two approx.,35% Off + 25% Off
+Neighbors,4.5,"Anjuna Mapusa Assagao Road, Goa",European,₹ 1800 for two approx.,10% Off + 25% Off
+The Cube,4.0,"Calangute, North Goa",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Wow! Momo,4.0,"Candolim, North Goa  | View All(10) Outlets",Momos,₹ 400 for two approx.,30% Off + 25% Off
+Free 2 Fly,4.0,"Baga, North Goa",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Tribe,4.0,"Renest Calangute, Goa  | View All(2) Outlets",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Pineapple Villa By Raddish,4.0,"Arpora, North Goa",Multicuisine,₹ 800 for two approx.,10% Off + 25% Off
+Medallion,4.0,"Calangute, North Goa","Asian, Thai, Chinese",₹ 650 for two approx.,10% Off + 25% Off
+The Palms,4.5,Radisson Goa Candolim,Multicuisine,₹ 1400 for two approx.,30% Off + 25% Off
+Peace,4.4,The Park Calangute Goa,Multicuisine,₹ 1500 for two approx.,25% Off + 25% Off
+Biryani By Kilo,4.3,"Panaji, North Goa","Biryani, Hyderabadi, Mughlai",₹ 900 for two approx.,40% Off + 25% Off
+Tereza Beach House By Sly Granny,4.3,"Nerul, North Goa",Multicuisine,₹ 1600 for two approx.,20% Off + 25% Off
+Fat Fish Anjuna,4.0,"Anjuna, North Goa",Multicuisine,₹ 1500 for two approx.,10% Off + 25% Off
+Big Fat Sandwich,5.0,"Anjuna, North Goa",Cafe,₹ 1200 for two approx.,10% Off + 25% Off
+Uptown,4.2,"Candolim, North Goa",Multicuisine,₹ 1200 for two approx.,30% Off + 25% Off
+Café De Port By Radisson Resort Goa Baga,4.9,"Arpora, North Goa",Multicuisine,₹ 2200 for two approx.,30% Off + 25% Off
+The Boho Box,2.0,"Calangute Baga Road, Goa",Multicuisine,₹ 800 for two approx.,10% Off + 25% Off
+Spice Mantraa,4.6,"Candolim, North Goa",Multicuisine,₹ 1200 for two approx.,25% Off + 25% Off
+Urban Indian,5.0,"Arpora, North Goa",Indian,₹ 1100 for two approx.,20% Off + 25% Off
+Rio Cafe Bar,4.8,"Calangute, North Goa",Continental,₹ 1000 for two approx.,25% Off + 25% Off
+Backdrop Community Bar & Kitchen,4.0,"Calangute, North Goa",Multicuisine,₹ 1000 for two approx.,30% Off + 25% Off
+Meraki Roof Top,4.0,"Le Seasons Resort, Goa",Multicuisine,₹ 1200 for two approx.,30% Off + 25% Off
+Cafe De Port - Alfresco,5.0,"Arpora, North Goa",Multicuisine,₹ 2200 for two approx.,25% Off + 25% Off
+Kava - Fairfield by Marriott Calangute,5.0,Fairfield by Marriott Goa Calangute,Multicuisine,₹ 1000 for two approx.,25% Off + 25% Off
+Bar Asia,5.0,Novotel Goa Shrem Hotel,Finger Food,₹ 1500 for two approx.,25% Off + 25% Off
+Popistro,5.0,"Calangute, North Goa",Indian,₹ 500 for two approx.,20% Off + 25% Off
+Pirates Deck,4.0,"Saligao, North Goa",Indian,₹ 1000 for two approx.,25% Off + 25% Off
+CHY Lounge & Bar,4.0,Novotel Goa Resorts & Spa,Finger Food,₹ 1200 for two approx.,25% Off + 25% Off
+Julep,4.0,"Calangute Baga Road, Goa",Multicuisine,₹ 2500 for two approx.,25% Off + 25% Off
+Aur Jalsa,5.0,"Calangute Baga Road, Goa","Indian, Rajasthani",₹ 4500 for two approx.,20% Off + 25% Off
+Urban Jungle,5.0,"Saligao, North Goa","North Indian, Continental",₹ 1200 for two approx.,20% Off + 25% Off
+Southi,4.6,"Candolim, North Goa",South Indian,₹ 700 for two approx.,10% Off + 25% Off
+Aamchi - Maharashtrian Kitchen & Bar,5.0,"Calangute, North Goa",Maharashtrian,₹ 1200 for two approx.,15% Off + 25% Off
+Jolene by the Sea,3.1,"Anjuna, North Goa",Multicuisine,₹ 2000 for two approx.,25% Off :Payeazy
+Mamagoto,4.2,"Panaji, North Goa",Pan Asian,₹ 1500 for two approx.,20% Off + 25% Off
+G-Shot Coffee Roastery & Cafe,4.4,"Assagao, North Goa","Juices, Shakes",₹ 1100 for two approx.,25% Off :Payeazy
+Olive Bar and Kitchen,4.5,"Vagator, North Goa","European, Pizza",₹ 2000 for two approx.,15% Off + 25% Off
+The Little Place,4.0,"Candolim, North Goa",Cafe,₹ 600 for two approx.,15% Off + 25% Off
+Richita,4.0,"Calangute, North Goa","Indian, Multicuisine",₹ 800 for two approx.,15% Off + 25% Off
+Goa Gossips,4.0,"Arpora, North Goa",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Sessions,4.7,Hard Rock Hotel Goa,"Beverages, Indian",₹ 2000 for two approx.,10% Off + 25% Off
+Bistro Sun & Sea,5.0,"Calangute, North Goa",Goan,₹ 1000 for two approx.,10% Off + 25% Off
+Cafe Meu Lar by Barista,5.0,"Panaji, North Goa  | View All(2) Outlets","Coffee, Cafe",₹ 300 for two approx.,40% Off + 25% Off
+Ziba,4.7,"Baga, North Goa",Multicuisine,₹ 800 for two approx.,10% Off + 25% Off
+Harman Punjabi,4.0,"Arpora, North Goa",North Indian,₹ 500 for two approx.,10% Off + 25% Off
+Tonic Bar,4.3,Hard Rock Hotel Goa,Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Casita Multi-Cuisine Restaurant,4.0,"Bardez, North Goa",Multicuisine,₹ 1500 for two approx.,10% Off + 25% Off
+Gypsea Beach Club,2.5,"Anjuna Beach, Anjuna",Multicuisine,₹ 1700 for two approx.,10% Off + 25% Off
+Aangan,4.4,"Panaji, North Goa","Goan, Modern Indian",₹ 800 for two approx.,10% Off + 25% Off
+Nomad Pizza,4.0,"Anjuna, North Goa","Beverages, Italian",₹ 1200 for two approx.,40% Off + 25% Off
+Mehek - Tandoor Works,4.1,"Colva, South Goa",Multicuisine,₹ 700 for two approx.,25% Off + 25% Off
+Bonita Goa,5.0,"Arossim Beach, Goa",European,₹ 2000 for two approx.,10% Off + 25% Off
+Jamun,4.3,"Assagao, North Goa","North Indian, Seafood, South Indian, Beverages, Goan, Indian",₹ 1800 for two approx.,20% Off + 25% Off
+Chapter Two,5.0,"Calangute, North Goa",North Indian,₹ 700 for two approx.,25% Off :Payeazy
+The Ocean Grill,4.0,"Calangute, North Goa","Chinese, Indian",₹ 600 for two approx.,Free Beverages + 25% Off
+Tipsy Pub,4.0,"Arpora, North Goa",Multicuisine,₹ 1400 for two approx.,Free Beverages + 25% Off
+Jungle Cafe,4.3,"Sangolda, North Goa",Continental,₹ 700 for two approx.,15% Off + 25% Off
+Ping's Bia Hoi,4.4,"Porvorim, North Goa","Beverages, Chinese, Finger Food, Thai, Pan Asian, Asian",₹ 1400 for two approx.,15% Off + 25% Off
+AKRA By Saga Stays,5.0,"Baga, North Goa",Multicuisine,₹ 1000 for two approx.,25% Off :Payeazy
+Mama Miso,4.7,"Arossim Beach, Goa",Pan Asian,₹ 2000 for two approx.,10% Off + 25% Off
+Viva Lounge,5.0,Holiday Inn Candolim Goa,Multicuisine,₹ 1500 for two approx.,25% Off + 25% Off
+Uma By The Sea,5.0,"Morjim, North Goa",Multicuisine,₹ 2000 for two approx.,15% Off + 25% Off
+Rashmi Restro & Bar,4.0,"Calangute, North Goa",Multicuisine,₹ 1500 for two approx.,25% Off :Payeazy
+Cafe Mochasa,4.0,"Candolim, North Goa",Cafe,₹ 450 for two approx.,25% Off :Payeazy
+Bloom Cafe,4.0,"Bloom Boutique, Baga",Multicuisine,₹ 1200 for two approx.,25% Off :Payeazy
+The Bridge,4.0,"DiVaN Clarks Inn, Goa",Multicuisine,₹ 1500 for two approx.,25% Off :Payeazy
+Taste of Bharat,4.0,"Arpora, North Goa",North Indian,₹ 800 for two approx.,25% Off :Payeazy
+Bloom Cafe,4.0,"Bloomrooms, Calangute",Multicuisine,₹ 1200 for two approx.,25% Off :Payeazy
+A Reverie,3.8,"Calangute Baga Road, Goa",Fusion,₹ 2000 for two approx.,25% Off :Payeazy
+Thalassa Beach Boutique Resort,4.0,"Ashwem Beach, North Goa",Multicuisine,₹ 4500 for two approx.,25% Off :Payeazy
+Saltamontes,4.8,"Anjuna, North Goa",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+Peep Kitchen,3.8,"Panaji, North Goa",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Angry Sardar,4.2,"Panaji, North Goa",North Indian,₹ 1200 for two approx.,10% Off + 25% Off
+Maverick and Farmer Coffee,5.0,"Anjuna, North Goa","Italian, Continental",₹ 1000 for two approx.,10% Off + 25% Off
+Lazy Goose,4.6,"Nerul, North Goa","Seafood, European, Goan",₹ 1500 for two approx.,25% Off + 25% Off
+Waterfront Terrace and Bar,4.6,Goa Marriott Resort & Spa,Multicuisine,₹ 1500 for two approx.,30% Off + 25% Off
+Soi,4.5,"Candolim, North Goa  | View All(2) Outlets",Goan,₹ 1500 for two approx.,15% Off + 25% Off
+The Sanctuary Bar & Kitchen,4.7,"Anjuna, North Goa",Multicuisine,₹ 1800 for two approx.,30% Off + 25% Off
+Toula Bar & Kitchen,5.0,"Candolim, North Goa",Italian,₹ 1500 for two approx.,20% Off + 25% Off
+Food Exchange,4.5,Novotel Goa Resorts & Spa  | View All(2) Outlets,Multicuisine,₹ 2000 for two approx.,25% Off + 25% Off
+The Goan Room,4.5,"Dona Paula Panaji, Goa","Goan, Seafood, Cocktail Menu",₹ 1000 for two approx.,20% Off + 25% Off
+Zodiac - All Day Dining Benaulim,4.0,"Fortune Resort Benaulim, Goa by ITC","Seafood, Multicuisine",₹ 1100 for two approx.,25% Off + 25% Off
+Spice Goa,4.4,"Sangolda, North Goa  | View All(2) Outlets",Multicuisine,₹ 1500 for two approx.,25% Off :Payeazy
+Thai N Wok,5.0,"Miramar, Panaji, North Goa",Thai,₹ 1100 for two approx.,10% Off + 25% Off
+Raeeth,3.2,"Ozran Beach Road , Goa",Mediterranean,₹ 1500 for two approx.,10% Off + 25% Off
+Saz on the Beach,2.5,"Morjim, North Goa",Multicuisine,₹ 1700 for two approx.,30% Off + 25% Off
+Bbq Company,3.3,"Bailey Road, Patna",Multicuisine,₹ 1200 for two approx.,25% Off
+Barbeque Company,4.1,"Boring Road, Patna","Multicuisine, Barbeque",₹ 1800 for two approx.,25% Off
+Pirates Of Grill,4.2,"Lodipur, Patna",Multicuisine,₹ 1800 for two approx.,25% Off
+Barbeque Nation,4.5,"Bailey Road, Patna  | View All(2) Outlets",Multicuisine,₹ 1900 for two approx.,25% Off
+True Kababs Flavour of Hyderabad,4.9,"Sri Krishna Puri, Patna",Chinese,₹ 900 for two approx.,25% Off
+Patna Rasoi,4.3,"Fraser Road Area, Patna",Multicuisine,₹ 600 for two approx.,25% Off
+Fiesta By Barbeque Nation,4.8,"KP Mall, Patna",Multicuisine,₹ 1600 for two approx.,25% Off
+The Spice Routes,4.0,"Danapur, Patna",Multicuisine,₹ 1000 for two approx.,25% Off
+Aaharam,4.0,"Rukanpura, Patna",Indian,₹ 500 for two approx.,25% Off
+Traffic Jamm,4.0,"Rukanpura, Patna",Multicuisine,₹ 500 for two approx.,25% Off
+Bloom kitchen,4.1,"Kankarbagh, Patna",Multicuisine,₹ 700 for two approx.,25% Off
+Cafe Coca Mocha,4.0,"Anisabad, Patna",Cafe,₹ 1000 for two approx.,25% Off
+Prashant Pizza,4.0,"Rajeev Nagar, Patna",Pizza,₹ 600 for two approx.,25% Off
+Dark Delight Restaurant & Cafe,4.3,"Anandpuri, Patna","Chinese, Indian",₹ 600 for two approx.,25% Off
+Hotel Star GloryRise,4.0,"Kumhrar, Patna",Multicuisine,₹ 1000 for two approx.,25% Off
+Batido The Shake Paradise,4.0,"Rajeev Nagar, Patna  | View All(12) Outlets","Bakery, Cafe",₹ 500 for two approx.,25% Off
+Mahi Seven Star Restaurant,4.0,"Machhua Toli, Patna","Chinese, Indian",₹ 1000 for two approx.,25% Off
+Foodiegram,2.0,"Lodipur, Patna",Multicuisine,₹ 800 for two approx.,25% Off
+Heden Cafe,4.2,"Sri Krishna Puri, Patna",Multicuisine,₹ 700 for two approx.,40% Off + 25% Off
+Cafe 13,4.0,"Boring Road, Patna","Chinese, Italian",₹ 800 for two approx.,30% Off + 25% Off
+The Atmos 3,4.0,"Sri Krishna Puri, Patna",Indian,₹ 1000 for two approx.,30% Off + 25% Off
+Afraa,4.0,"Lodipur, Patna",Multicuisine,₹ 1200 for two approx.,25% Off + 25% Off
+Bayleaf,3.7,"Kaliket Nagar, Patna","North Indian, Chinese",₹ 800 for two approx.,50% Off + 25% Off
+The Pacifique- Cafe & Lounge,2.5,"Kankarbagh, Patna",Multicuisine,₹ 1200 for two approx.,30% Off + 25% Off
+The Downtown Cafe,3.5,"Kankarbagh, Patna",Multicuisine,₹ 600 for two approx.,40% Off + 25% Off
+Tao Bao Indo-Korean Cafe,5.0,"Bailey Road, Patna",Korean,₹ 1000 for two approx.,10% Off + 25% Off
+The Royal Jail Restro,4.3,"Kaliket Nagar, Patna",Multicuisine,₹ 500 for two approx.,30% Off + 25% Off
+Proso Pyare,2.7,"Danapur, Patna",Multicuisine,₹ 1000 for two approx.,30% Off + 25% Off
+Cafe Zodiac,4.3,"Kankarbagh, Patna",Multicuisine,₹ 1000 for two approx.,40% Off + 25% Off
+Cafe Hideout,4.0,"Bailey Road, Patna  | View All(5) Outlets",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+Pind The Revolving,3.7,"Gandhi Maidan Rd, Patna","Chinese, North Indian",₹ 1000 for two approx.,15% Off + 25% Off
+Persona,4.5,"Patliputra Colony, Patna",Multicuisine,₹ 1200 for two approx.,30% Off + 25% Off
+AASMAN,4.1,"Fraser Road Area, Patna",Multicuisine,₹ 2000 for two approx.,20% Off + 25% Off
+Cafe the Cartel,4.0,"Lodipur, Patna",Multicuisine,₹ 700 for two approx.,30% Off + 25% Off
+Cafe Skylite (Rooftop Lounge),4.2,"Silkhouse Premier Hotel, Patna",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+LIGHTHOUSE CAFE,4.2,"Lodipur, Patna",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Kapil Dev's Elevens,4.3,"Fraser Road Area, Patna",Multicuisine,₹ 1450 for two approx.,25% Off + 25% Off
+Harilal's,5.0,"Sri Krishna Puri, Patna  | View All(8) Outlets",Indian,₹ 400 for two approx.,25% Off :Payeazy
+Infinity Cafe,1.0,"Lodipur, Patna",Multicuisine,₹ 800 for two approx.,10% Off + 25% Off
+Karim's Ashiana- Digha,4.2,"Khajpura, Patna  | View All(2) Outlets",Mughlai,₹ 400 for two approx.,20% Off + 25% Off
+Bikaner Elite,4.0,"Anisabad, Patna",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Café Amaayra- A Multi-Cuisine Kitchen,4.5,"Khajpura, Patna",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Kake - Da - Hotel,4.3,"Danapur, Patna",Multicuisine,₹ 700 for two approx.,20% Off + 25% Off
+Dosa (by Dakshin) Chilli Cafe,4.0,"Kankarbagh, Patna","South Indian, Multicuisine",₹ 800 for two approx.,40% Off + 25% Off
+Biryani by Kilo,4.5,Patna,Biryani,₹ 700 for two approx.,40% Off + 25% Off
+Bihari Baithak,4.4,"Kaliket Nagar, Patna",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+Austaara,4.1,"Kidwaipuri, Patna",Multicuisine,₹ 1500 for two approx.,25% Off + 25% Off
+La Casa Cafe,4.0,"Patliputra Colony, Patna",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Highway Junction,4.0,"Mustafapur, Patna","Chinese, North Indian",₹ 1000 for two approx.,15% Off + 25% Off
+Amrapali Cafe,4.0,"Danapur, Patna  | View All(2) Outlets",Indian,₹ 1000 for two approx.,10% Off + 25% Off
+Golden Flavour,3.9,"Orchid Mall, Boring Rd",Multicuisine,₹ 1000 for two approx.,50% Off + 25% Off
+Bikaner Elite,4.0,"Danapur, Patna",Multicuisine,₹ 800 for two approx.,15% Off + 25% Off
+Brewmn Coffee,5.0,"Kankarbagh, Patna","Bakery, Cafe",₹ 700 for two approx.,25% Off + 25% Off
+Craft Coffee,4.8,"Lodipur, Patna","Cafe, Fast Food",₹ 700 for two approx.,10% Off + 25% Off
+Barkaas,4.6,"Fraser Road Area, Patna",Arabian,₹ 1000 for two approx.,10% Off + 25% Off
+The Grind House,4.3,"Kankarbagh, Patna",Multicuisine,₹ 1000 for two approx.,25% Off + 25% Off
+Regalia,4.0,"Sri Krishna Puri, Patna",Multicuisine,₹ 1200 for two approx.,15% Off + 25% Off
+SSS Restaurant,4.0,"Kankarbagh, Patna",Multicuisine,₹ 1000 for two approx.,25% Off :Payeazy
+Vasa Cafe & Lounge,2.0,"Boring Road, Patna",Multicuisine,₹ 1000 for two approx.,20% Off + 25% Off
+The Fifth Avenue,5.0,"Lodipur, Patna",Italian,₹ 1000 for two approx.,25% Off + 25% Off
+AB's - Absolute Barbecues,4.5,Patna,"Multicuisine, Barbeque",₹ 1800 for two approx.,Free Cocktail or Mocktail + 25% Off
+Hotel President (Atithi Restaurant),4.0,"Lodipur, Patna",Indian,₹ 1000 for two approx.,25% Off + 25% Off
+Garage Kitchen,5.0,"Chitragupta Nagar, Patna",Multicuisine,₹ 1000 for two approx.,50% Off + 25% Off
+IFC (Indian Food Court),4.0,"Ashok Rajpath Road, Patna",Indian,₹ 1000 for two approx.,Free Cocktail or Mocktail + 25% Off
+Bikaner Elite,4.0,"Rukanpura, Patna",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Swaaddesh,4.1,"Boring Road, Patna",Indian,₹ 750 for two approx.,20% Off + 25% Off
+Brewbites Cafe & Restaurant,4.0,"Kaliket Nagar, Patna",Multicuisine,₹ 1000 for two approx.,20% Off + 25% Off
+Food Mohalla,4.0,"Makhniya kuwa, Patna",Fast Food,₹ 300 for two approx.,30% Off + 25% Off
+Samsara,4.0,"Patliputra Colony, Patna",Multicuisine,₹ 1000 for two approx.,40% Off + 25% Off
+Flavor Town,4.8,"Gola Road, Patna",Multicuisine,₹ 700 for two approx.,15% Off + 25% Off
+Royal Thali Restro,5.0,"Danapur, Patna",Multicuisine,₹ 1500 for two approx.,15% Off + 25% Off
+Imperial Biryani,5.0,"Bailey Road, Patna",Multicuisine,₹ 600 for two approx.,15% Off + 25% Off
+Madhuram Restaurant & Cafe,4.0,"Kankarbagh, Patna",Multicuisine,₹ 700 for two approx.,10% Off + 25% Off
+Amritsar Haveli,5.0,"Kankarbagh, Patna",Indian,₹ 1500 for two approx.,10% Off + 25% Off
+Lal Miri,4.0,"Bailey Road, Patna","Chinese, Indian",₹ 600 for two approx.,15% Off + 25% Off
+Ten 11 Restaurant & Cafe,4.0,"Danapur, Patna",Indian,₹ 1000 for two approx.,15% Off + 25% Off
+Berco's,5.0,"Dujra Diara, Patna","Indian, Thai, Chinese",₹ 1250 for two approx.,30% Off + 25% Off
+Quantum Quisiine Cafe and Restaurant,4.0,"Danapur, Patna",Multicuisine,₹ 800 for two approx.,10% Off + 25% Off
+Biryani Blues,4.0,"Sri Krishna Puri, Patna",Biryani,₹ 700 for two approx.,25% Off + 25% Off
+The Royal Haveli Cafe And Restaurant,4.0,"Anisabad, Patna",Multicuisine,₹ 500 for two approx.,30% Off + 25% Off
+Mishri,5.0,"Lodipur, Patna",Indian,₹ 1000 for two approx.,25% Off + 25% Off
+The Urban Backyard,5.0,"Kankarbagh, Patna",Indian,₹ 1200 for two approx.,25% Off + 25% Off
+Afra Tafri Cafe & Restaurant,4.0,"Raja Bazarr, Patna",Indian,₹ 800 for two approx.,20% Off + 25% Off
+Swaadh Restaurant & Cafe,4.0,"Patliputra Colony, Patna",Indian,₹ 800 for two approx.,15% Off + 25% Off
+Flamingo Restaurant & Cafe,4.0,"Kankarbagh, Patna",Indian,₹ 600 for two approx.,25% Off + 25% Off
+Wow! Momo,2.7,"Bikhna Pahari, Patna  | View All(2) Outlets",Momos,₹ 400 for two approx.,30% Off + 25% Off
+Eat Plan8,5.0,"Patel Nagar, Patna",Multicuisine,₹ 600 for two approx.,10% Off + 25% Off
+Wow! China,2.5,"City Centre Mall, Patna  | View All(2) Outlets",Chinese,₹ 400 for two approx.,30% Off + 25% Off
+Biryani By Kilo,1.0,"Anisabad, Patna",Biryani,₹ 1000 for two approx.,40% Off + 25% Off
+Calm Street Cafe,4.0,"S. K. Puram, Patna","Pizza, Burgers, Coffee",₹ 400 for two approx.,15% Off + 25% Off
+Royal Spice Restaurant,4.0,"Khajpura, Patna",Indian,₹ 1200 for two approx.,10% Off + 25% Off
+Mast Magan,4.0,"Danapur, Patna",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Cookbook Cafe,4.4,"Patliputra Colony, Patna",Multicuisine,₹ 1000 for two approx.,25% Off + 25% Off
+Kiara Restaurant And Cafe,5.0,"Kankarbagh, Patna",Multicuisine,₹ 600 for two approx.,10% Off + 25% Off
+Ace Of Spades,4.0,"Kankarbagh, Patna",Multicuisine,₹ 600 for two approx.,15% Off + 25% Off
+Kitchen & Co Restro & Cafe,5.0,"Chitragupta Nagar, Patna",Indian,₹ 1000 for two approx.,10% Off + 25% Off
+La Fume Cafe And Restro,4.0,"Boring Road, Patna","Biryani, Mughlai, North Indian",₹ 800 for two approx.,15% Off + 25% Off
+Hotel Golden Crystal,4.0,"Kankarbagh, Patna",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+City Lights Cafe,4.0,"Sri Krishna Puri, Patna",Multicuisine,₹ 800 for two approx.,20% Off + 25% Off
+MW Bistro,4.0,"Kurji, Patna",Multicuisine,₹ 750 for two approx.,20% Off + 25% Off
+2 Brother's Inn Restaurant,4.0,"Kumhrar, Patna","Chinese, Indian",₹ 700 for two approx.,20% Off + 25% Off
+Spice Grill,4.0,"Sri Krishna Puri, Patna",Chinese,₹ 600 for two approx.,15% Off + 25% Off
+Tangerine,5.0,"Hotel Ramta Continental, Patna",Multicuisine,₹ 800 for two approx.,30% Off + 25% Off
+Buddha Restaurant & Cafe,4.0,"Buddha Resort, Patna",Multicuisine,₹ 1000 for two approx.,20% Off + 25% Off
+The Red Velvet,3.9,"The Red Velvet Hotel Samarpan, Patna",Multicuisine,₹ 1500 for two approx.,35% Off + 25% Off
+Celienna- Tasty Dine,4.0,"New Azimabad Colony, Patna",Multicuisine,₹ 600 for two approx.,10% Off + 25% Off
+Dishyum,5.0,"Rukanpura, Patna","Chinese, Indian",₹ 350 for two approx.,10% Off + 25% Off
+Crown Cafe  And Restaurant,4.0,"Shivpuri, Patna",Indian,₹ 1000 for two approx.,10% Off + 25% Off
+Cafe Meet-Up,4.0,"Mithapur, Patna","Chinese, Indian",₹ 400 for two approx.,10% Off + 25% Off
+You Found Me,5.0,"Boring Road, Patna",Multicuisine,₹ 1000 for two approx.,Free Cocktail or Mocktail + 25% Off
+Ambrosia,4.3,"The Red Velvet Hotel, Patna",Multicuisine,₹ 1500 for two approx.,30% Off + 25% Off
+Kalpana Sweets House,4.0,"Mustafapur, Patna",Desserts,₹ 800 for two approx.,10% Off + 25% Off
+The Cloud Chef,4.0,"Kautilya Nagar, Patna","Indian, Chinese",₹ 300 for two approx.,15% Off + 25% Off
+The Napples,4.0,Hotel Amalfi Grand,Multicuisine,₹ 700 for two approx.,10% Off + 25% Off
+Chauka,4.3,"Boring Road, Patna",Multicuisine,₹ 500 for two approx.,10% Off + 25% Off
+The Old Monk Cafe,5.0,"Rukanpura, Patna","Chinese, North Indian",₹ 600 for two approx.,40% Off + 25% Off
+Satvik (The Inside Kitchen),4.0,"Maharana Pratap Bhawan, Patna",Multicuisine,₹ 600 for two approx.,10% Off + 25% Off
+Chicago Pizza,4.3,Patna  | View All(4) Outlets,Pizza,₹ 500 for two approx.,15% Off + 25% Off
+MamaSexy - The Aer Bar,4.0,"Raja Bazarr, Patna",Multicuisine,₹ 900 for two approx.,10% Off + 25% Off
+Sit n Dine,4.0,"Khagaul, Patna",Multicuisine,₹ 700 for two approx.,25% Off + 25% Off
+POLIKA - Pure Veg Restaurant,4.0,"Khajpura, Patna","Chinese, Indian",₹ 1000 for two approx.,15% Off + 25% Off
+Shree Devanshilal,4.0,"Chitragupta Nagar, Patna",Multicuisine,₹ 800 for two approx.,25% Off :Payeazy
+Kababs and Curries,5.0,"Kankarbagh, Patna",Multicuisine,₹ 800 for two approx.,10% Off + 25% Off
+Cafe 21,4.0,"Kankarbagh, Patna",Indian,₹ 600 for two approx.,15% Off + 25% Off
+Chilli Lime,5.0,"Bankman Colony, Patna",Multicuisine,₹ 1000 for two approx.,20% Off + 25% Off
+Heaven Spices,5.0,"Bailey Road, Patna",Multicuisine,₹ 700 for two approx.,15% Off + 25% Off
+Biryani Queen,4.0,"Danapur, Patna",Biryani,₹ 1500 for two approx.,20% Off + 25% Off
+Pind Balluchi,3.1,"Kaliket Nagar, Patna","Chinese, Indian",₹ 1000 for two approx.,10% Off + 25% Off
+Lotus Restaurant,4.0,"Danapur, Patna",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Luv to serve cafe & resturant,5.0,"Danapur, Patna",Multicuisine,₹ 700 for two approx.,10% Off + 25% Off
+Absolute Shawarma @ Patna,4.0,"Ashiana, Patna",Shawarma,₹ 800 for two approx.,10% Off + 25% Off
+The Magic pan,4.0,"Gola Road, Patna",Multicuisine,₹ 800 for two approx.,15% Off + 25% Off
+Yo! Pizza +,4.0,"Bailey Road, Patna",Pizza,₹ 300 for two approx.,10% Off + 25% Off
+Wat-A-Burger,4.0,"Khajpura, Patna",Multicuisine,₹ 700 for two approx.,10% Off + 25% Off
+Foodie Faves Cafe,4.0,"Gokul path, Patna",Fast Food,₹ 500 for two approx.,10% Off + 25% Off
+Cray Craft,4.4,"Andheri East, Western Suburbs","Chinese, Indian",₹ 2000 for two approx.,25% Off
+Mahesh Lunch Home,4.5,"Juhu, Western Suburbs  | View All(5) Outlets",Indian Coastal Cuisine,₹ 1200 for two approx.,25% Off
+Taftoon Bar & Kitchen,4.3,"Powai, Central Mumbai  | View All(2) Outlets",Indian,₹ 2500 for two approx.,25% Off
+Novaara,4.2,"Malad West, Western Suburbs",Multicuisine,₹ 1800 for two approx.,25% Off
+La Panthera,4.6,"Bandra Kurla Complex (BKC), Western Suburbs",European,₹ 4000 for two approx.,25% Off
+Si Nonna's - The Original Sourdough Pizza,4.7,"Bandra Kurla Complex (BKC), Western Suburbs  | View All(3) Outlets",Italian,₹ 1700 for two approx.,25% Off
+The Tanjore Tiffin Room,4.4,"Pali Hill, Bandra West, Western Suburbs  | View All(3) Outlets",Tamil Nadu,₹ 1500 for two approx.,25% Off
+Kitty Su,2.3,"The Lalit, Mumbai","Cocktail Menu, Drinks Only, Finger Food",₹ 2000 for two approx.,25% Off
+Eve,4.7,"Worli, South Mumbai  | View All(3) Outlets",Multicuisine,₹ 2500 for two approx.,25% Off
+Baliboo,4.2,"Goregaon East, Western Suburbs",Multicuisine,₹ 1800 for two approx.,25% Off
+Blabber All Day,4.7,"Borivali East, Western Suburbs","Continental, Asian",₹ 1500 for two approx.,25% Off
+The Caravan Menu,4.5,"Panch Pakhadi, Thane West",Multicuisine,₹ 2600 for two approx.,25% Off
+Butterfly High,4.4,"Bandra Kurla Complex (BKC), Western Suburbs  | View All(6) Outlets",Modern Indian,₹ 1500 for two approx.,25% Off
+Alfredo's,4.4,"Hotel King's International, Mumbai  | View All(3) Outlets",Continental,₹ 1500 for two approx.,25% Off
+Golden Delicacy Restaurant & Banquets,3.8,"Malad West, Western Suburbs",Multicuisine,₹ 1000 for two approx.,25% Off
+Luuma House,4.6,"Juhu, Western Suburbs",Multicuisine,₹ 2000 for two approx.,25% Off
+Gigi,4.1,"Bandra West, Western Suburbs","European, Japanese",₹ 3100 for two approx.,25% Off
+Taj Mahal Tea House,4.7,"Bandra West, Western Suburbs",Multicuisine,₹ 1800 for two approx.,25% Off
+Los Cavos,4.5,"Bandra West, Western Suburbs",Peruvian,₹ 2000 for two approx.,25% Off
+Papa Pancho da Dhaba,4.6,"Bandra West, Western Suburbs",North Indian,₹ 800 for two approx.,25% Off
+Khyber,4.4,"Fort, South Mumbai  | View All(1) Outlets","Mughlai, North Indian",₹ 2500 for two approx.,25% Off
+Earth Cafe @ BKC,4.7,"Bandra Kurla Complex (BKC), Western Suburbs",European,₹ 1700 for two approx.,25% Off
+The Coconut Boy,3.4,"Bandra West, Western Suburbs",Goan,₹ 1200 for two approx.,25% Off
+Ode,4.7,"Worli, South Mumbai",European,₹ 3000 for two approx.,25% Off
+Ekaa,4.5,"Fort, South Mumbai",Modern Indian,₹ 4000 for two approx.,25% Off
+Ditas,4.6,"Lower Parel, South Mumbai",European,₹ 2500 for two approx.,25% Off
+On Toes Restaurant,4.4,"Juhu, Western Suburbs  | View All(1) Outlets",Multicuisine,₹ 1200 for two approx.,25% Off
+La Loca Maria,4.6,"Bandra West, Western Suburbs",Spanish,₹ 4000 for two approx.,25% Off
+The Nest,4.2,"Bandra West, Western Suburbs",Multicuisine,₹ 1800 for two approx.,25% Off
+On Toes Pub,4.8,"Juhu, Western Suburbs",Multicuisine,₹ 1200 for two approx.,25% Off
+Mirage,4.2,"Krishna Curve, Juhu garden","Japanese, Asian",₹ 3500 for two approx.,25% Off
+The Fuchsia Loft,5.0,"Hotel King's International, Mumbai",North Indian,₹ 1800 for two approx.,25% Off
+The Brasserie BY HILTON MUMBAI,4.2,"Hilton Mumbai, Mumbai",Multicuisine,₹ 2200 for two approx.,50% Off + 25% Off
+Cacao- A Restrobar,4.0,"Aralia International Airport, Mumbai","Mexican, Indian, Italian",₹ 1200 for two approx.,30% Off + 25% Off
+Fusion Ville,4.2,"Marol, Central Mumbai",Multicuisine,₹ 1200 for two approx.,25% Off + 25% Off
+Barista Coffee,4.0,"Andheri East, Western Suburbs  | View All(16) Outlets","Cafe, Coffee",₹ 500 for two approx.,40% Off + 25% Off
+Zytun- The Restaurant,4.3,"Hotel Metropolis, Mumbai",Multicuisine,₹ 1200 for two approx.,25% Off + 25% Off
+24/7 Restaurant,4.4,"The Lalit, Mumbai","Multicuisine, Bengali",₹ 3500 for two approx.,25% Off + 25% Off
+Banjara,4.1,"Goldfinch Hotel, Mumbai  | View All(1) Outlets",Multicuisine,₹ 2500 for two approx.,55% Off + 25% Off
+Fiona,4.2,Radisson Blu Mumbai International Airport,"Cocktail Menu, Multicuisine",₹ 3000 for two approx.,50% Off + 25% Off
+British Brewing Company,4.1,"Marol, Central Mumbai  | View All(7) Outlets","Cocktail Menu, Multicuisine",₹ 1500 for two approx.,10% Off + 25% Off
+Kohana,4.5,"Powai, Central Mumbai",Multicuisine,₹ 3500 for two approx.,15% Off + 25% Off
+Global Coffee House & Eatery,4.0,"Bloom Hotel - Saki Vihar, Powai  | View All(2) Outlets",Multicuisine,₹ 2500 for two approx.,50% Off + 25% Off
+Food Exchange By Novotel,4.3,Novotel Mumbai International Airport,Multicuisine,₹ 2000 for two approx.,30% Off + 25% Off
+Something's Fishy,4.6,"Tunga International, Mumbai  | View All(2) Outlets",Seafood,₹ 1700 for two approx.,10% Off + 25% Off
+Uttam Da Dhaba,4.3,"Marol, Central Mumbai",South Indian,₹ 1200 for two approx.,10% Off + 25% Off
+Lake View Cafe,4.4,The Westin Mumbai Powai Lake,Multicuisine,₹ 3000 for two approx.,25% Off + 25% Off
+"Castor Bistro Café By Aralia – A Business Hotel, Midc",4.6,"Andheri East, Western Suburbs",Multicuisine,₹ 1200 for two approx.,1+1 Buffet + 25% Off
+Heritage Kitchen & Bar,3.6,"Andheri East, Western Suburbs",Multicuisine,₹ 1000 for two approx.,20% Off + 25% Off
+Navya,4.5,"The Regale by Tunga, Mumbai",Multicuisine,₹ 850 for two approx.,25% Off + 25% Off
+Bayroute,4.6,"Powai, Central Mumbai  | View All(6) Outlets","Mediterranean, Cocktail Menu",₹ 3000 for two approx.,15% Off + 25% Off
+Saptami,4.4,"Holiday Inn Mumbai International Airport, Mumbai",Multicuisine,₹ 2000 for two approx.,50% Off + 25% Off
+Gourmet Bar By Novotel,4.8,Novotel Mumbai International Airport,Modern Indian,₹ 2500 for two approx.,35% Off + 25% Off
+Fly Kitchen and Bar,1.0,"Andheri East, Western Suburbs",Multicuisine,₹ 1700 for two approx.,20% Off + 25% Off
+Mado Mado,4.3,Fairfield by Marriott Mumbai International Airport,Multicuisine,₹ 3000 for two approx.,50% Off + 25% Off
+ARC Powai- Lounge & Rooftop,4.6,"Powai, Central Mumbai",Multicuisine,₹ 1500 for two approx.,25% Off + 25% Off
+Shetty Lounge,4.0,"Marol, Central Mumbai","Chinese, Indian",₹ 1600 for two approx.,10% Off + 25% Off
+Madeleine De Proust,5.0,"Fairmont, Vile Parle, Mumbai",Multicuisine,₹ 2000 for two approx.,25% Off + 25% Off
+JW Cafe,4.5,"JW Marriott Mumbai Sahar, Mumbai",Multicuisine,₹ 4000 for two approx.,25% Off + 25% Off
+Gallery Cafe,4.3,Radisson Mumbai Andheri MIDC,Multicuisine,₹ 2500 for two approx.,55% Off + 25% Off
+MoMo Cafe,4.3,Courtyard Mumbai International Airport,Multicuisine,₹ 3000 for two approx.,30% Off + 25% Off
+Lounge Bar BY HILTON MUMBAI,4.1,"Hilton Mumbai, Mumbai","Cocktail Menu, Finger Food",₹ 2000 for two approx.,30% Off + 25% Off
+Berlin Brew,4.9,"Marol, Central Mumbai",Multicuisine,₹ 1000 for two approx.,15% Off + 25% Off
+Gola Sizzlers,3.8,"Andheri East, Western Suburbs",Multicuisine,₹ 1500 for two approx.,15% Off + 25% Off
+The Finch,4.3,"Andheri East, Western Suburbs",Multicuisine,₹ 1600 for two approx.,25% Off + 25% Off
+72 Bar,4.3,"Holiday Inn Mumbai International Airport, Mumbai","Cocktail Menu, Finger Food",₹ 2000 for two approx.,50% Off + 25% Off
+Nosh & Beyond,4.3,"Andheri East, Western Suburbs","Italian, Multicuisine, Continental",₹ 1200 for two approx.,10% Off + 25% Off
+Dhaba,5.0,"Marol, Central Mumbai",Multicuisine,₹ 800 for two approx.,10% Off + 25% Off
+190 AMSL By Novotel,4.8,Novotel Mumbai International Airport,"Asian, Continental",₹ 995 for two approx.,30% Off + 25% Off
+Mayouchi,4.5,The Westin Mumbai Powai Lake,"Japanese, oriental",₹ 2000 for two approx.,25% Off + 25% Off
+Ark 2.0,4.8,Courtyard Mumbai International Airport,"Finger Food, Cocktail Menu",₹ 3500 for two approx.,40% Off + 25% Off
+Opa! Bar & Café,4.1,"The Peninsula Grand Hotel, Mumbai","Cocktail Menu, Multicuisine",₹ 1500 for two approx.,20% Off + 25% Off
+Ummrao,4.4,Courtyard Mumbai International Airport,Indian,₹ 1500 for two approx.,30% Off + 25% Off
+Citrus,4.4,"The Leela, Mumbai",European,₹ 3000 for two approx.,25% Off + 25% Off
+The Bigg Small Cafe + Bar,4.2,"Sakinaka, Central Mumbai","Cocktail Menu, Multicuisine",₹ 1400 for two approx.,15% Off + 25% Off
+Pickle & Pint,4.5,"The Paradise By Tunga, Mumbai","Cocktail Menu, Multicuisine",₹ 1400 for two approx.,15% Off + 25% Off
+The Sassy Spoon,4.5,"Powai, Central Mumbai  | View All(1) Outlets","American, Beverages, European, Healthy Food, Italian, Mediterranean, Modern Indian, Asian, Desserts, Continental",₹ 1800 for two approx.,20% Off + 25% Off
+Brew Code- Holiday Inn,5.0,"Holiday Inn Mumbai International Airport, Mumbai","Bakery, Cafe",₹ 800 for two approx.,50% Off + 25% Off
+Deli Shop BY HILTON MUMBAI,5.0,"Hilton Mumbai, Mumbai",Bakery,₹ 800 for two approx.,50% Off + 25% Off
+Asia Kitchen By Mainland China,4.4,"Sakinaka, Central Mumbai  | View All(4) Outlets",Pan Asian,₹ 1200 for two approx.,20% Off + 25% Off
+Indriya Mishran,5.0,"Andheri East, Western Suburbs",Multicuisine,₹ 1600 for two approx.,15% Off + 25% Off
+ChimiChurri,4.5,"Marol, Central Mumbai  | View All(5) Outlets",Cocktail Menu,₹ 1700 for two approx.,25% Off :Payeazy
+Foo Powai,4.5,"Powai, Central Mumbai  | View All(8) Outlets","Chinese, Asian",₹ 2000 for two approx.,Cover Charge + 25% Off
+Toast - Bistro & Bar,4.4,"Marol, Central Mumbai","Finger Food, Cocktail Menu",₹ 2000 for two approx.,15% Off + 25% Off
+IC BY HILTON MUMBAI,4.5,"Hilton Mumbai, Mumbai",Pan Asian,₹ 1800 for two approx.,30% Off + 25% Off
+Jw Lounge,5.0,"JW Marriott Mumbai Sahar, Mumbai",Cocktail Menu,₹ 3500 for two approx.,25% Off + 25% Off
+Whats Your Plan ?,4.7,"Sakinaka, Central Mumbai","Multicuisine, Asian",₹ 1600 for two approx.,25% Off + 25% Off
+OKO,4.0,"The Lalit, Mumbai",Pan Asian,₹ 4000 for two approx.,25% Off + 25% Off
+Malhar Tribes,4.5,"Marol, Central Mumbai",Multicuisine,₹ 1600 for two approx.,10% Off + 25% Off
+LVEL Bar & Diner,4.0,"Sakinaka, Central Mumbai",Finger Food,₹ 1800 for two approx.,20% Off + 25% Off
+Naans & Noodles,4.5,"Hotel Yogi Midtown, Navi Mumbai",Chinese,₹ 1300 for two approx.,35% Off + 25% Off
+Roots Of India,4.5,"Marol, Central Mumbai",Multicuisine,₹ 1200 for two approx.,15% Off + 25% Off
+Pop Tate's,4.5,"Sakinaka, Central Mumbai  | View All(34) Outlets",Multicuisine,₹ 1000 for two approx.,25% Off :Payeazy
+Ice Cream Works Gold,5.0,"Powai, Central Mumbai  | View All(3) Outlets","Ice Cream, Desserts",₹ 400 for two approx.,25% Off + 25% Off
+The Stables,4.2,"Hotel Peninsula Redpine, Mumbai","Cocktail Menu, Multicuisine",₹ 1500 for two approx.,15% Off + 25% Off
+Tattva Bar & Cafe Mumbai,4.5,"Hotel Peninsula Redpine, Mumbai","Cocktail Menu, Multicuisine",₹ 1800 for two approx.,15% Off + 25% Off
+Coco Café by Cococart,4.8,"Oberoi Mall, Goregaon East  | View All(6) Outlets",Cafe,₹ 800 for two approx.,35% Off + 25% Off
+Episode One,4.3,"Powai, Central Mumbai  | View All(1) Outlets",Finger Food,₹ 1400 for two approx.,25% Off + 25% Off
+Lotus Cafe,4.5,JW Marriott Mumbai Juhu,Multicuisine,₹ 2800 for two approx.,20% Off + 25% Off
+Bisou,3.5,Fairfield by Marriott Mumbai International Airport,"Finger Food, Cocktail Menu",₹ 2000 for two approx.,30% Off + 25% Off
+SMOOR,4.6,"Powai, Central Mumbai  | View All(2) Outlets",European,₹ 600 for two approx.,10% Off + 25% Off
+Baluchi,4.4,"The Lalit, Mumbai",North Indian,₹ 3500 for two approx.,25% Off + 25% Off
+Tiara Restaurant & Bar,4.4,"Meluha The Fern, Mumbai",Multicuisine,₹ 2500 for two approx.,30% Off + 25% Off
+Avartana,5.0,"ITC Maratha, Mumbai",Indian,₹ 5000 for two approx.,10% Off + 25% Off
+Apna Dhaba,3.4,"Chakala, Andheri East, Western Suburbs",North Indian,₹ 800 for two approx.,10% Off + 25% Off
+Corkage & Co,4.6,"Andheri East, Western Suburbs","Chinese, Italian, oriental",₹ 1600 for two approx.,10% Off + 25% Off
+The Game Ranch,4.3,"Powai, Central Mumbai  | View All(3) Outlets",Multicuisine,₹ 2400 for two approx.,15% Off + 25% Off
+Wow! Momo,5.0,"Andheri East, Western Suburbs  | View All(35) Outlets",Momos,₹ 400 for two approx.,30% Off + 25% Off
+The Great Wall,4.8,"The Leela, Mumbai",Chinese,₹ 3200 for two approx.,25% Off + 25% Off
+Peshawri,4.4,"ITC Maratha, Mumbai","Indian, North West Frontier",₹ 4000 for two approx.,10% Off + 25% Off
+iaa by Tunga,4.8,"Tunga International, Mumbai",Indian,₹ 1200 for two approx.,10% Off + 25% Off
+Punjab Grill,4.1,"Phoenix Market City, Kurla  | View All(8) Outlets",North Indian,₹ 1600 for two approx.,30% Off + 25% Off
+SPICE OASIS,4.1,"IRA BY ORCHID HOTELS, Mumbai",Multicuisine,₹ 1200 for two approx.,25% Off + 25% Off
+Citrus Cafe,3.3,"Lemon Tree Premier, Mumbai International Airport  | View All(3) Outlets",Multicuisine,₹ 1800 for two approx.,50% Off + 25% Off
+Gurukripa,4.5,"Powai, Central Mumbai",Indian,₹ 1400 for two approx.,10% Off + 25% Off
+The Earth Plate - Global Cuisine,4.3,"Sahara Star, Mumbai",Multicuisine,₹ 4500 for two approx.,30% Off + 25% Off
+Fisherman's Cove - Taste On Palate,4.3,"Chandivali, Central Mumbai","Seafood, Multicuisine",₹ 800 for two approx.,15% Off + 25% Off
+Nawab Saheb,4.4,The Westin Mumbai Powai Lake,Awadhi,₹ 5000 for two approx.,25% Off + 25% Off
+Malvan Tadka,5.0,"Marol, Central Mumbai",Multicuisine,₹ 1200 for two approx.,10% Off + 25% Off
+True Tramm Trunk BKC,4.1,"Bandra Kurla Complex (BKC), Western Suburbs  | View All(2) Outlets","Finger Food, Cocktail Menu",₹ 2600 for two approx.,15% Off + 25% Off
+The Barn Grill,5.0,"Andheri East, Western Suburbs",American,₹ 1000 for two approx.,10% Off + 25% Off
+Waikiki,4.0,"The Peninsula Grand Hotel, Mumbai","Peruvian, Japanese, Finger Food",₹ 1500 for two approx.,20% Off + 25% Off
+Spotlight Skydeck,4.4,"Wagle Estate, Thane West",Multicuisine,₹ 1400 for two approx.,30% Off + 25% Off
+Beluga,5.0,"The Lalit, Mumbai","Finger Food, Cocktail Menu",₹ 2500 for two approx.,25% Off + 25% Off
+Spice It,3.3,"Vikhroli, Central Mumbai",Multicuisine,₹ 1700 for two approx.,50% Off + 25% Off
+Bombay Adda,5.0,"Andheri East, Western Suburbs",Multicuisine,₹ 1500 for two approx.,20% Off + 25% Off
+Banana Leaf,4.5,"Malad West, Western Suburbs  | View All(12) Outlets",South Indian,₹ 500 for two approx.,10% Off + 25% Off
+House Of Asia,3.7,"Hotel Mirador, Mumbai",Pan Asian,₹ 2500 for two approx.,25% Off + 25% Off
+Aromas Cafe & Bistro,4.4,"Linking Road, Bandra West, Western Suburbs  | View All(4) Outlets","Cafe, Continental",₹ 1000 for two approx.,25% Off + 25% Off
+Fame Garden Prive,4.4,"Powai, Central Mumbai",European,₹ 2500 for two approx.,20% Off + 25% Off
+Qebab Quisine,3.8,Radisson Mumbai Andheri MIDC,"Mughlai, North Indian",₹ 2400 for two approx.,35% Off + 25% Off
+Gopalas Veg Kitchen,3.5,"Kanjurmarg West, Central Mumbai","South Indian, North Indian",₹ 800 for two approx.,25% Off + 25% Off
+House of Mandarin,4.4,"Powai, Central Mumbai  | View All(2) Outlets",Pan Asian,₹ 1800 for two approx.,Free Cocktail or Mocktail + 25% Off
+Eat Around the Corner,4.8,"Bandra West, Western Suburbs",Continental,₹ 2200 for two approx.,15% Off + 25% Off
+Thyme & Whisk,4.1,"Mulund West, Central Mumbai  | View All(3) Outlets",Multicuisine,₹ 1300 for two approx.,10% Off + 25% Off
+Utse Kitchen,5.0,"Shivajinagar, Central Bengaluru",Asian,₹ 1500 for two approx.,25% Off
+Nasi and Mee,4.7,"Richmond Town, Central Bengaluru  | View All(5) Outlets",Asian,₹ 2000 for two approx.,25% Off
+Chin Lung Resto Bar,4.5,"Residency Road, Central Bengaluru  | View All(5) Outlets",Multicuisine,₹ 2000 for two approx.,25% Off
+Öz By Kebapci,4.5,"UB City, Central Bengaluru",Turkish,₹ 2000 for two approx.,25% Off
+The Reservoire Cocktail Bar & Kitchen,4.6,"12th main, East Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+KoMaama Korean Restaurant,4.0,"Brigade Road, Central Bengaluru",Korean,₹ 2000 for two approx.,25% Off
+Jollygunj,4.2,"JP Nagar, South Bengaluru  | View All(3) Outlets",Indian,₹ 1800 for two approx.,25% Off
+"Atlantis - Brewpub, Cocktails & Kitchen",4.2,"HSR, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+one8 Commune,3.8,"MG Road, Central Bengaluru",Multicuisine,₹ 2800 for two approx.,25% Off
+Juliet,3.8,"1MG Road Mall, MG Road","European, Asian",₹ 3000 for two approx.,25% Off
+46 Ounces Brewgarden,4.7,"Electronic City, South Bengaluru","Multicuisine, Cocktail Menu",₹ 2000 for two approx.,30% Off + 25% Off
+Brau Galie Microbrewery,4.6,"Koramangala 5th Block, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Helen's Place,4.3,"Marathahalli, East Bengaluru",Multicuisine,₹ 2500 for two approx.,25% Off
+Maverick & Farmer Coffee,4.5,"Ulsoor, East Bengaluru",Cafe,₹ 2000 for two approx.,25% Off
+Chin Lung Brewery - Indiranagar,4.6,"Indiranagar, East Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Daddy,4.1,"12th main, East Bengaluru","Cocktail Menu, Pan Asian",₹ 2000 for two approx.,25% Off
+Yuki Cocktail Bar & Kitchen,4.7,"100 Feet Road, East Bengaluru","Cocktail Menu, Pan Asian, Asian",₹ 2000 for two approx.,25% Off
+The Founders Brewery,4.7,"New BEL Road, North Bengaluru","North Indian, Chinese",₹ 2000 for two approx.,25% Off
+BLR Brewing Co,4.4,"Whitefield, East Bengaluru  | View All(6) Outlets",Multicuisine,₹ 2000 for two approx.,Free Cocktail or Mocktail + 25% Off
+William John's Pizza,4.9,"Horamavu, Bengaluru","American, Italian",₹ 2000 for two approx.,25% Off
+Yuki - Brewhouse and Kitchen,4.6,"Koramangala, South Bengaluru","Cocktail Menu, Pan Asian",₹ 2000 for two approx.,25% Off
+DISTRICT 6,4.4,"Rajajinagar, West Bengaluru","Cocktail Menu, Multicuisine",₹ 2000 for two approx.,25% Off
+Maize & Malt,4.6,"Krishnarajapuram Hobli, Bengaluru",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Koreyaki,3.8,"Indiranagar, East Bengaluru",Korean,₹ 2000 for two approx.,25% Off
+1 BHK - Bar House Kitchen,4.4,"Koramangala, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+1522 - The Pub,4.4,"Malleshwaram, West Bengaluru  | View All(8) Outlets","European, Finger Food, North Indian, Indian Coastal Cuisine, Chicken, Barbeque",₹ 2500 for two approx.,25% Off
+The Scene - Craft Kitchen & Bar,4.0,"JP Nagar, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+The Fisherman's Wharf,4.5,"Sarjapur Road, South Bengaluru  | View All(1) Outlets","Indian Coastal Cuisine, Multicuisine, Seafood",₹ 2000 for two approx.,25% Off
+Nusa - Tropical Brewvilla,4.1,"Gunjur Village, Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Chairman's Restobar,4.5,"Chikkabanavara, North Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Oia,4.2,"Hennur, North Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Yuki - Pan Asian Kitchen and Bar,4.5,"JP Nagar, South Bengaluru",Pan Asian,₹ 2000 for two approx.,25% Off
+Garden by su,4.4,"Jayanagar, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Byg Brewski - Sarjapur,4.5,"Sarjapur Road, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+MisoSexy,4.3,"12th main, East Bengaluru","Pan Asian, Asian",₹ 2000 for two approx.,25% Off
+Toca,3.9,"Koramangala, South Bengaluru  | View All(2) Outlets",Multicuisine,₹ 2000 for two approx.,25% Off
+Subz,4.4,"Jayanagar, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Gaia - Global Vegetarian,4.7,"JP Nagar, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off
+Masala Mandi,4.2,"Sarjapur Road, South Bengaluru",Barbeque,₹ 2000 for two approx.,25% Off
+Savera Lassi Shop,4.7,"Shivajinagar, Central Bengaluru","Ice Cream, Beverages",₹ 2000 for two approx.,10% Off + 25% Off
+My Breakfast,4.0,"Shivajinagar, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Masha Allah Hot And Cool Point,4.0,"Shivajinagar, Central Bengaluru",Fast Food,₹ 2000 for two approx.,10% Off + 25% Off
+Tipsy Cafe,4.0,"Shivajinagar, Central Bengaluru",Fast Food,₹ 2000 for two approx.,10% Off + 25% Off
+Shahi Restaurant,3.0,"Shivajinagar, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Main Lassi Shop,1.0,"Shivajinagar, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Maggi Baba,5.0,"Shivajinagar, Central Bengaluru",Beverages,₹ 2000 for two approx.,25% Off :Payeazy
+Romeo Cafe,4.0,"Shivajinagar, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off :Payeazy
+Dindigul Thalappakatti,5.0,"MG Road, Central Bengaluru  | View All(10) Outlets",Multicuisine,₹ 950 for two approx.,25% Off
+Trippy Goat Cafe,4.3,"Vasanth Nagar, Central Bengaluru","Coffee and Tea, European",₹ 2000 for two approx.,10% Off + 25% Off
+The Biere Club,4.4,"Lavelle Road, Central Bengaluru  | View All(2) Outlets","Cocktail Menu, Multicuisine",₹ 2000 for two approx.,40% Off + 25% Off
+Hatti Kaapi,5.0,"Infantry Road, Central Bengaluru  | View All(4) Outlets",Multicuisine,₹ 400 for two approx.,10% Off + 25% Off
+Flo,3.4,"Church Street, Central Bengaluru","Multicuisine, Cocktail Menu",₹ 2000 for two approx.,45% Off + 25% Off
+Juliana's,5.0,"Infantry Road, Central Bengaluru","European, Pan Asian, Continental",₹ 1400 for two approx.,25% Off :Payeazy
+SkyDeck By Sherlock's,4.1,"MG Road, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off + 25% Off
+Vapour Pub & Brewery,3.9,"100 Feet Road, East Bengaluru",Multicuisine,₹ 2000 for two approx.,50% Off + 25% Off
+Lumara Bar & Kitchen,4.3,"Old Madras Road, East Bengaluru",Multicuisine,₹ 2500 for two approx.,20% Off + 25% Off
+Burnout Cafe,3.9,"Infantry Road, Central Bengaluru  | View All(1) Outlets","Chinese, Multicuisine, Continental",₹ 2000 for two approx.,20% Off + 25% Off
+Punjab Grill,4.2,"Ashok Nagar, Bengaluru  | View All(8) Outlets",North Indian,₹ 2000 for two approx.,25% Off + 25% Off
+Rolls On Wheels,4.0,"Cunningham Road, Central Bengaluru  | View All(19) Outlets","Chinese, Fast Food",₹ 500 for two approx.,15% Off + 25% Off
+Arbor Brewing Company,4.4,"Brigade Road, Central Bengaluru",Multicuisine,₹ 1800 for two approx.,25% Off :Payeazy
+Bazaar,4.0,Zone By The Park Infantry Bengaluru,Multicuisine,₹ 2500 for two approx.,10% Off + 25% Off
+Café Azzure,4.2,"MG Road, Central Bengaluru  | View All(4) Outlets",European,₹ 2000 for two approx.,20% Off + 25% Off
+Nothing Before Coffee,4.0,"Richmond Town, Central Bengaluru",Cafe,₹ 2000 for two approx.,20% Off + 25% Off
+Raahi Neo Kitchen & Bar,4.5,"Ashok Nagar, Bengaluru",Indian,₹ 2500 for two approx.,50% Off + 25% Off
+By Chance,4.4,"Brigade Road, Central Bengaluru",Multicuisine,₹ 1500 for two approx.,50% Off + 25% Off
+Tiamo,4.4,Conrad Bengaluru,Multicuisine,₹ 2250 for two approx.,20% Off + 25% Off
+Aqua,3.7,"The Park, Bengaluru",Multicuisine,₹ 2500 for two approx.,30% Off + 25% Off
+Kari Theory,3.9,Radisson Bengaluru City Center,"Cocktail Menu, Multicuisine",₹ 2500 for two approx.,50% Off + 25% Off
+ShakesBierre,4.4,"MG Road, Central Bengaluru","Cocktail Menu, Multicuisine",₹ 2000 for two approx.,30% Off + 25% Off
+Levista Gourmet Studio,5.0,"Church Street, Central Bengaluru",American,₹ 2000 for two approx.,30% Off + 25% Off
+Barista Coffee,4.4,"Sadashiv Nagar, North Bengaluru  | View All(5) Outlets","Cafe, Coffee",₹ 2000 for two approx.,40% Off + 25% Off
+Muro India,4.5,"Museum Road, Ashok Nagar, Bengaluru","Thai, Cantonese",₹ 5000 for two approx.,25% Off :Payeazy
+Kake Di Hatti,5.0,"Brigade Road, Central Bengaluru  | View All(9) Outlets",North Indian,₹ 2000 for two approx.,15% Off + 25% Off
+Zodiac - The Fortune Palace,4.0,"Fortune Select JP Cosmos, Bengaluru",Multicuisine,₹ 1800 for two approx.,40% Off + 25% Off
+SMOOR,4.4,"Lavelle Road, Central Bengaluru  | View All(9) Outlets",European,₹ 2000 for two approx.,10% Off + 25% Off
+JW Kitchen,4.4,"JW Marriott, Bengaluru, Central Bengaluru",Multicuisine,₹ 2500 for two approx.,50% Off + 25% Off
+Monsoon,3.8,"The Park, Bengaluru",Multicuisine,₹ 2000 for two approx.,30% Off + 25% Off
+The Brew Factory - Brewery Pub & Kitchen,4.5,"Peenya, North Bengaluru",Multicuisine,₹ 2000 for two approx.,30% Off + 25% Off
+Blah Bla (Indigo XP),3.9,"Koramangala, South Bengaluru",Multicuisine,₹ 2000 for two approx.,50% Off + 25% Off
+Ging,4.3,"Royal Orchid Central, Bengaluru","oriental, Cocktail Menu",₹ 2500 for two approx.,25% Off + 25% Off
+Maayaa,4.4,"The Courtyard by Sublime, Bengaluru",South Indian,₹ 2000 for two approx.,50% Off + 25% Off
+Hatti Kaapi - Signature,5.0,"Lavelle Road, Central Bengaluru",Multicuisine,₹ 600 for two approx.,10% Off + 25% Off
+Matsuri,4.6,"The Chancery Hotel, Bengaluru","Japanese, Sushi",₹ 2000 for two approx.,15% Off + 25% Off
+"Anthara - Taproom, Cafe & Kitchen",5.0,"Doddanekkundi, Bengaluru","American, French",₹ 800 for two approx.,30% Off + 25% Off
+No Limmits Lounge & Club,3.5,"Brigade Road, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,40% Off + 25% Off
+Sharief Bhai Biryani,4.4,"Frazer Town, Central Bengaluru  | View All(26) Outlets",Hyderabadi,₹ 2000 for two approx.,15% Off + 25% Off
+The Golden Circle Brewery,4.1,"Doddakannelli, Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off + 25% Off
+Sozo Skyline Dining,4.3,"Ashok Nagar, Bengaluru","Cocktail Menu, Pan Asian",₹ 2000 for two approx.,25% Off + 25% Off
+Hard Rock Cafe,4.5,"St. Marks Road, Central Bengaluru  | View All(2) Outlets","Multicuisine, Burgers",₹ 2500 for two approx.,20% Off + 25% Off
+Ta'aam,5.0,"Cunningham Road, Central Bengaluru","Arabian, North Indian",₹ 600 for two approx.,25% Off :Payeazy
+The Kabab Studio,3.9,"Goldfinch Hotel, Seshadripuram",North Indian,₹ 2000 for two approx.,50% Off + 25% Off
+Kling Brewery,4.4,"Church Street, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Be Luru Craft Kitchen & Bar,3.7,"Sankey Road, North Bengaluru","Indian, Asian",₹ 2000 for two approx.,50% Off + 25% Off
+Sanchez & Sriracha,4.2,"UB City, Central Bengaluru  | View All(2) Outlets",Mexican,₹ 2000 for two approx.,10% Off + 25% Off
+New Kudla Family Restaurant,4.0,"MG Road, Central Bengaluru","North Indian, Chinese",₹ 2000 for two approx.,50% Off + 25% Off
+Monarch Cafe,4.0,"Infantry Road, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off :Payeazy
+Cafe Adams,4.0,"Shivajinagar, Central Bengaluru",European,₹ 2000 for two approx.,25% Off :Payeazy
+Ihmiets Momos,4.0,"Old Madras Road, East Bengaluru",Momos,₹ 2000 for two approx.,50% Off + 25% Off
+CBD Central Bar District,5.0,"MSR Nagar, Bengaluru",Multicuisine,₹ 1200 for two approx.,20% Off + 25% Off
+Zest,4.7,"Southern Star, Bengaluru",Multicuisine,₹ 2000 for two approx.,60 Discount + 25% Off
+High Ultra Lounge,4.3,Sheraton Grand Bangalore at Brigade Gateway,Multicuisine,₹ 2000 for two approx.,50% Off + 25% Off
+Don't Tell Mama,4.1,"HSR, South Bengaluru",Multicuisine,₹ 2000 for two approx.,50% Off + 25% Off
+Dishkeyaun,4.1,"Forum Rex Walk, Brigade Road","Indian, Fusion, Asian",₹ 2000 for two approx.,30% Off + 25% Off
+Foo Brigade Road,4.5,"Brigade Road, Central Bengaluru","Chinese, Pan Asian, Asian",₹ 2500 for two approx.,Cover Charge + 25% Off
+Blanc The Coffee Place,5.0,"Gandhi Nagar, Central Bengaluru",European,₹ 1000 for two approx.,30% Off + 25% Off
+Gatsby,4.4,"Bannerghatta Road, South Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off + 25% Off
+Smoke House Deli,4.4,"Lavelle Road, Central Bengaluru  | View All(2) Outlets",European,₹ 2000 for two approx.,20% Off + 25% Off
+The Market,4.5,"The Ritz-Carlton, Bengaluru","All Day Dining, Multicuisine",₹ 4000 for two approx.,30% Off + 25% Off
+Vapour Brewpub & Diner,4.4,"Sarjapur Road, South Bengaluru",Multicuisine,₹ 2000 for two approx.,50% Off + 25% Off
+Caraway Kitchen,4.4,Conrad Bengaluru,Multicuisine,₹ 2800 for two approx.,15% Off + 25% Off
+"Salt - Pan Indian Restaurant, Bar & Grill",4.3,"UB City, Central Bengaluru  | View All(7) Outlets","Indian, Cocktail Menu",₹ 2000 for two approx.,10% Off + 25% Off
+The Big Barbeque,3.9,"Marathahalli, East Bengaluru  | View All(3) Outlets","Barbeque, Multicuisine",₹ 2000 for two approx.,1+1 Buffet + 25% Off
+Barbecue by Punjab Grill,4.0,"Mantri Square, Malleshwaram","Beverages, Finger Food, Biryani",₹ 2000 for two approx.,30% Off + 25% Off
+Pinxx,4.2,"Royal Orchid Central, Bengaluru",Multicuisine,₹ 2400 for two approx.,25% Off + 25% Off
+Church Street Social,4.2,"Church Street, Central Bengaluru  | View All(11) Outlets",Multicuisine,₹ 2000 for two approx.,20% Off + 25% Off
+LIT Gastropub,3.9,"Church Street, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,20% Off + 25% Off
+Coffee Brew Hub,4.0,"Residency Road, Central Bengaluru",Multicuisine,₹ 1000 for two approx.,10% Off + 25% Off
+Alchemy,4.5,"The Chancery Pavilion, Bengaluru","Indian, Fusion",₹ 2500 for two approx.,20% Off + 25% Off
+Alba,4.1,"JW Marriott, Bengaluru, Central Bengaluru",Italian,₹ 3500 for two approx.,20% Off + 25% Off
+Street Storyss,5.0,"Brigade Road, Central Bengaluru  | View All(3) Outlets",Multicuisine,₹ 1500 for two approx.,10% Off + 25% Off
+SodaBottleOpenerWala,4.4,"Lavelle Road, Central Bengaluru",Parsi,₹ 2000 for two approx.,15% Off + 25% Off
+The Rice Bowl,4.3,"Southern Star, Bengaluru","Chinese, Asian",₹ 1500 for two approx.,10% Off + 25% Off
+Gufha Restaurant,4.6,"Guttahalli, North Bengaluru",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Indian Durbar,4.4,Conrad Bengaluru,"Indian, North Indian",₹ 3000 for two approx.,15% Off + 25% Off
+Zodiac,4.2,"Fortune Select JP Cosmos, Bengaluru",Multicuisine,₹ 2000 for two approx.,25% Off + 25% Off
+Easy Tiger,4.2,"Church Street, Central Bengaluru","Cocktail Menu, American",₹ 2000 for two approx.,20% Off + 25% Off
+Sana-Di-Ge,4.4,"Goldfinch Hotel, Seshadripuram","Biryani, Seafood, Regional Indian",₹ 2000 for two approx.,30% Off + 25% Off
+Scottish Pub,4.9,"St. Marks Road, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,20% Off + 25% Off
+Wow! China,4.0,"Church Street, Central Bengaluru  | View All(10) Outlets",Chinese,₹ 2000 for two approx.,30% Off + 25% Off
+KA 01 - Rooftop Bar & Eats,4.4,"Ibis Hotel, Richmond Road","Indian, Cocktail Menu",₹ 2000 for two approx.,50% Off + 25% Off
+Kenzai - Asian Kitchen And Lounge,4.6,"Brigade Road, Central Bengaluru",Asian,₹ 2000 for two approx.,25% Off + 25% Off
+Cahoots Classic Bar House,5.0,"Brigade Road, Central Bengaluru",Multicuisine,₹ 4000 for two approx.,10% Off + 25% Off
+i-Bar,3.8,"The Park, Bengaluru",Cocktail Menu,₹ 2000 for two approx.,30% Off + 25% Off
+Sea Rock Family Restaurant & Bar,4.7,"Seshadripuram, Central Bengaluru",Multicuisine,₹ 2000 for two approx.,10% Off + 25% Off
+Badmaash UB City,4.3,"UB City, Central Bengaluru  | View All(4) Outlets",Indian,₹ 2000 for two approx.,25% Off + 25% Off

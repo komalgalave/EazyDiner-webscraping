@@ -1,0 +1,676 @@
+Restaurant_Name,Rating,Area,Dishes,Amount,Location,Restaurant_Discount,discount_value,final_bill
+Brot Company,5.0,Civil Lines,"Bakery, Pan Asian, Continental",1600,jaipur,20,720.00,880.00
+Govindam Retreat,4.4,Kanwar Nagar,Multicuisine,700,jaipur,0,0.00,700.00
+Spice Court,4.4,Civil Lines,"Multicuisine, Beverages",800,jaipur,10,280.00,520.00
+Cafe Auberge,4.8,Civil Lines,Multicuisine,800,jaipur,20,360.00,440.00
+Dyore Experiences,3.3,C Scheme,Multicuisine,1800,jaipur,20,810.00,990.00
+Havana - Cafe Of Heaven,4.1,Jagatpura,Multicuisine,600,jaipur,0,0.00,600.00
+Wunderground - Speakeasy & Chakna Bar,4.0,Gopalbari,"Finger Food, Cocktail Menu",1200,jaipur,15,480.00,720.00
+Daniel's Oriental Kitchen,4.0,Gopalbari,oriental,800,jaipur,15,320.00,480.00
+Nibs Cafe & Chocolataria,4.4,Gopalbari,Cafe,600,jaipur,20,270.00,330.00
+Spice It,3.8,Ibis Hotel,Multicuisine,1600,jaipur,30,880.00,720.00
+Wunderland By Townsend,5.0,Gopalbari,Multicuisine,1500,jaipur,25,750.00,750.00
+Le Farsan - Rooftop & Cafe,5.0,C Scheme,Indian,1300,jaipur,25,650.00,650.00
+Barista Coffee,4.8,C Scheme,"Cafe, Coffee",300,jaipur,40,195.00,105.00
+Waraahi,3.6,C Scheme,Multicuisine,1000,jaipur,15,400.00,600.00
+Peshawri,4.5,ITC Rajputana Hotel,North West Frontier,4500,jaipur,10,1575.00,2925.00
+Little French Home,5.0,Gopalbari,Continental,1200,jaipur,25,600.00,600.00
+Vegetrainian - The Train Restaurant,4.1,Lal Kothi,Multicuisine,700,jaipur,45,490.00,210.00
+Monarch - World Dining,4.3,Holiday Inn Jaipur City Centre,Multicuisine,2300,jaipur,40,1495.00,805.00
+Le Farsan - Thali Restaurant,2.3,C Scheme,Indian,1000,jaipur,10,350.00,650.00
+Knighthouse,4.3,C Scheme,"Cocktail Menu, Multicuisine",1700,jaipur,20,765.00,935.00
+Chaat Bistro,4.0,Civil Lines,Chaat,800,jaipur,15,320.00,480.00
+Farmacy - A Healthy Restaurant By Doctors,5.0,C Scheme,Multicuisine,800,jaipur,15,320.00,480.00
+Retreat Drink And Dine,4.3,C Scheme,Multicuisine,1000,jaipur,30,550.00,450.00
+Thirsty Camel,5.0,Hathroi,Multicuisine,1600,jaipur,20,720.00,880.00
+Café White Sage,4.8,Civil Lines,Multicuisine,1900,jaipur,10,665.00,1235.00
+The Colonnade,4.7,Rajmahal Palace,Multicuisine,6000,jaipur,0,1500.00,4500.00
+Mamu's Infusion,4.3,C Scheme,Multicuisine,1000,jaipur,15,400.00,600.00
+Baramasi,3.7,C Scheme,Multicuisine,1000,jaipur,25,500.00,500.00
+Brewvana Coffee House,4.0,C Scheme,"Cafe, Coffee and Tea",1200,jaipur,25,600.00,600.00
+Masala Ministry,4.2,C Scheme,"Continental, North Indian",1000,jaipur,40,650.00,350.00
+Zarza Club & Terrace,4.1,Bais Godam,Multicuisine,1500,jaipur,55,1200.00,300.00
+UP&UP,4.0,Tonk Road,Multicuisine,1200,jaipur,45,840.00,360.00
+Veda by Jaipur Coffee Co.,4.0,Hathroi,Multicuisine,1400,jaipur,20,630.00,770.00
+Native Cocktail Room,5.0,Hotel Pearl Palace,Multicuisine,2000,jaipur,0,0.00,2000.00
+Opera,4.4,C Scheme,"Cafe, Multicuisine",1300,jaipur,25,650.00,650.00
+Baari- The House of Fusion,4.0,Gopalbari,Multicuisine,800,jaipur,30,440.00,360.00
+Jaipur Modern Kitchen,4.6,C Scheme,"Multicuisine, Beverages",1200,jaipur,25,600.00,600.00
+Twenty One Bar & Cafe,4.3,Fairfield by Marriott Jaipur,"Cocktail Menu, Multicuisine",1000,jaipur,35,600.00,400.00
+Meraaki Kitchen,4.2,Civil Lines,"North Indian, Italian, Chinese",1000,jaipur,10,350.00,650.00
+Sura - Cocktails & Cuisine,4.0,Gopalbari,Multicuisine,2000,jaipur,10,700.00,1300.00
+Taverns Lounge and Curry House,5.0,Gopalbari,Multicuisine,1400,jaipur,30,770.00,630.00
+Napoli Jaipur,4.5,Ashok Nagar,"Italian, Pizza, Continental",1400,jaipur,10,490.00,910.00
+HYPE,4.2,C Scheme,Cocktail Menu,800,jaipur,25,400.00,400.00
+Stepout Cafe,4.3,C Scheme,Multicuisine,700,jaipur,20,315.00,385.00
+TGIH - Thank God It's Healthy,4.0,Gopalbari,Healthy Food,900,jaipur,25,450.00,450.00
+The Yellow House -The Robot Restaurant,3.8,MI Road,"Mexican, Indian, Italian, Chinese",700,jaipur,50,525.00,175.00
+Chao - Chinese Bistro,4.4,Holiday Inn Jaipur City Centre,Multicuisine,2500,jaipur,25,1250.00,1250.00
+Beans & Buns By Hotel Anuraag Villa,4.0,Bani Park,Multicuisine,1000,jaipur,20,450.00,550.00
+Strings-Cocktail Lounge,4.0,C Scheme,"Cocktail Menu, Multicuisine",1600,jaipur,20,720.00,880.00
+Z Club,4.0,Tonk Road,Multicuisine,1000,jaipur,50,750.00,250.00
+Sipsss,4.5,Gopalbari,Multicuisine,1000,jaipur,15,400.00,600.00
+The Night Jar,4.3,MI Road,Multicuisine,800,jaipur,15,320.00,480.00
+Brewlicious Rooftop Bar,4.5,C Scheme,"Cocktail Menu, Multicuisine",2000,jaipur,30,1100.00,900.00
+Kalyan Rooftop And Indoor Restaurant,4.2,Gopalbari,Multicuisine,600,jaipur,10,210.00,390.00
+Palila Cafe & Kitchen,4.0,Gopalbari,Italian,900,jaipur,15,360.00,540.00
+Jaipur Pavilion,5.0,ITC Rajputana Hotel,Multicuisine,1800,jaipur,10,630.00,1170.00
+Jal Mahal,5.0,ITC Rajputana Hotel,Multicuisine,3300,jaipur,10,1155.00,2145.00
+Handi Restaurant,4.2,MI Road,Multicuisine,1200,jaipur,10,420.00,780.00
+Sheesh Mahal,4.0,ITC Rajputana Hotel,"Finger Food, Cocktail Menu",2200,jaipur,10,770.00,1430.00
+Sirka,4.5,C Scheme,Indian,1300,jaipur,35,780.00,520.00
+Kaleidoscope,4.4,C Scheme,Multicuisine,1000,jaipur,20,450.00,550.00
+Arth Spaces,4.0,C Scheme,Cafe,900,jaipur,10,315.00,585.00
+Nibs Experia,4.3,C Scheme,"Multicuisine, Cafe",700,jaipur,20,315.00,385.00
+Darbar Bar By Rajmahal Palace,5.0,Rajmahal Palace,Finger Food,6000,jaipur,0,1500.00,4500.00
+Cafe Bae,4.5,Hotel Las Vegas,"Continental, Bakery",1500,jaipur,30,825.00,675.00
+Peacock Roof Top Restaurant,4.6,Hotel Pearl Palace,Pan Asian,800,jaipur,0,0.00,800.00
+Aurum,4.5,Hilton Jaipur,Multicuisine,3000,jaipur,25,1500.00,1500.00
+Merlot & co,5.0,MI Road,"Pan Asian, Continental",2000,jaipur,25,1000.00,1000.00
+Roadhouse Bar & Grill,4.5,Holiday Inn Jaipur City Centre,"Burgers, Sandwiches, Finger Food, Italian",2300,jaipur,30,1265.00,1035.00
+Carbon,4.4,Ashok Nagar,Coffee,900,jaipur,20,405.00,495.00
+Diwali Festive Curations @ ITC Rajputana,4.0,ITC Rajputana Hotel,Mithai,3000,jaipur,0,0.00,3000.00
+The Lama,5.0,C Scheme,Multicuisine,800,jaipur,0,0.00,800.00
+Lighthouse,4.2,Gopalpura,Multicuisine,1200,jaipur,30,660.00,540.00
+House of People (HOP),4.0,Bais Godam,Multicuisine,1700,jaipur,35,1020.00,680.00
+Khwaab By Malana,4.8,Tonk Road,Multicuisine,1300,jaipur,20,585.00,715.00
+Blackout,3.7,Hotel Golden Oak,Multicuisine,1800,jaipur,50,1350.00,450.00
+Kohhee by The Night Jar,5.0,C Scheme,Multicuisine,700,jaipur,10,245.00,455.00
+Rasa,5.0,Bani Park,North Indian,2000,jaipur,25,1000.00,1000.00
+Diona - Ale Works | Kitchen | Bar,4.4,Shyam Nagar,"Cocktail Menu, Multicuisine",2000,jaipur,20,900.00,1100.00
+Kahanee Restaurant,3.5,Bani Park,Multicuisine,1300,jaipur,20,585.00,715.00
+B&B - Brew and Brunch,4.8,C Scheme,"Cafe, Coffee",700,jaipur,25,350.00,350.00
+Latte Lounge,5.0,Ashok Nagar,Multicuisine,900,jaipur,25,450.00,450.00
+Kanha,4.2,C Scheme,Multicuisine,500,jaipur,0,0.00,500.00
+Kesar Sweets,5.0,Lal Kothi,"Indian, Continental",700,jaipur,15,280.00,420.00
+Pacha,4.0,Sodala,Multicuisine,2000,jaipur,15,800.00,1200.00
+Bonkey's,4.4,Jyothi Nagar,Italian,1100,jaipur,10,385.00,715.00
+Tea Connect,5.0,C Scheme,Continental,500,jaipur,10,175.00,325.00
+Camiano Patisserie & Brasserie,4.7,Ashok Nagar,Continental,1500,jaipur,15,600.00,900.00
+Soul Brewing Company,4.0,Hotel Imperial,Multicuisine,2000,jaipur,0,0.00,2000.00
+Thali and More,4.4,C Scheme,North Indian,600,jaipur,0,0.00,600.00
+Mosaic,4.3,Radisson Jaipur City Center,"Cocktail Menu, Multicuisine",1500,jaipur,25,750.00,750.00
+PURGATORY 777,3.4,Ashok Nagar,"Casual Eclectic, Multicuisine",2000,jaipur,40,1300.00,700.00
+Sapphire,4.0,Shahpura House,Multicuisine,2000,jaipur,35,1200.00,800.00
+Topaz Restaurant - FineDine & Skydeck,4.8,MI Road,Multicuisine,900,jaipur,30,495.00,405.00
+The Swinton House,4.2,The Swinton House,Multicuisine,1800,jaipur,20,810.00,990.00
+Clock Tower,4.4,Moti Doongri Rd,"North Indian, Continental, Chinese, Italian",2700,jaipur,15,1080.00,1620.00
+OTH - On The House,4.5,C Scheme,Multicuisine,1100,jaipur,10,385.00,715.00
+Skyza,4.3,C Scheme,"Cocktail Menu, Multicuisine",1200,jaipur,20,540.00,660.00
+Tan-Sukh,4.4,C Scheme,Multicuisine,800,jaipur,20,360.00,440.00
+Chawla's MI Road (Since 1960),4.0,MI Road,Multicuisine,1500,jaipur,20,675.00,825.00
+The Baradari,4.4,Pink City,Multicuisine,2000,jaipur,10,700.00,1300.00
+Rustic by OTH,3.0,C Scheme,"Chinese, Continental",1000,jaipur,15,400.00,600.00
+The Great Kabab Factory,4.5,Radisson Jaipur City Center,"Cocktail Menu, Mughlai",1700,jaipur,25,850.00,850.00
+14 Tables,4.5,MI Road,Multicuisine,1600,jaipur,25,800.00,800.00
+Ten Kings Bar,5.0,Holiday Inn Jaipur City Centre,"Cocktail Menu, Finger Food",1800,jaipur,30,990.00,810.00
+Jaipur Local,4.3,Lemon Tree Premier,Multicuisine,2000,jaipur,15,800.00,1200.00
+Chaandi,4.4,Hilton Jaipur,"Indian, Cocktail Menu",3000,jaipur,25,1500.00,1500.00
+Gulabi Nagari,4.2,Bani Park,"North Indian, Chinese",1200,jaipur,10,420.00,780.00
+Krystal Bar,4.7,Hilton Jaipur,Cocktail Menu,2500,jaipur,25,1250.00,1250.00
+Jaipur Adda,4.8,Nirwana Hometel,Modern Indian,1200,jaipur,20,540.00,660.00
+Garden Grille,4.0,DoubleTree by Hilton Jaipur Amer,Barbeque,2000,jaipur,25,1000.00,1000.00
+The Bakery,4.0,Holiday Inn Jaipur City Centre,Bakery,1200,jaipur,25,600.00,600.00
+Paro - Modern Indian Bar,4.2,C Scheme,Indian,2000,jaipur,20,900.00,1100.00
+Sangria,4.9,MI Road,"Finger Food, Multicuisine",1000,jaipur,30,550.00,450.00
+Reflect - Bistro & Kitchen,4.9,C Scheme,"Cocktail Menu, Multicuisine",1400,jaipur,0,0.00,1400.00
+Townsend - Bar & Kitchen,4.4,Adarsh Nagar,Multicuisine,1300,jaipur,15,520.00,780.00
+Lusty Lettuce,4.0,Ashok Nagar,Continental,950,jaipur,20,427.50,522.50
+Delizia,5.0,Ashok Nagar,"Continental, Desserts, Pizza, Pasta, Fusion, Coffee",600,jaipur,15,240.00,360.00
+Olio Dugout with Rajasthan Royals,5.0,Lal Kothi,"Pizza, Pasta, Burgers",400,jaipur,30,220.00,180.00
+The Lamppost,4.3,C Scheme,European,700,jaipur,25,350.00,350.00
+Nest by Noir at Bird Park,4.8,Bani Park,Continental,900,jaipur,10,315.00,585.00
+Surya Mahal,4.2,MI Road,Multicuisine,1000,jaipur,10,350.00,650.00
+The Lounge,4.8,Intercontinental Jaipur,"Cocktail Menu, Multicuisine",1500,jaipur,25,750.00,750.00
+Henry's The Pub,4.3,Hotel Park Prime,"Finger Food, Cocktail Menu",2000,jaipur,30,1100.00,900.00
+Nebulae,4.4,Bais Godam,Multicuisine,1500,jaipur,25,750.00,750.00
+Grand Chanakya,2.9,Leisure Inn Grand Chanakya,Rajasthani,1300,jaipur,30,715.00,585.00
+#BC,4.2,Bani Park,Multicuisine,800,jaipur,20,360.00,440.00
+Tea Affair,5.0,C Scheme,"Beverages, Fast Food",350,jaipur,10,122.50,227.50
+Nouba Kitchen and Bar,4.8,C Scheme,Pan Asian,2000,jaipur,15,800.00,1200.00
+Brown Sugar,4.3,Bais Godam,"Beverages, Fast Food",400,jaipur,20,180.00,220.00
+Miroh,3.3,C Scheme,Multicuisine,1650,jaipur,15,660.00,990.00
+The Vital Spark,4.0,Sodala,Multicuisine,800,jaipur,20,360.00,440.00
+Chill - Nirwana Hometel,3.7,Nirwana Hometel,"Cocktail Menu, Finger Food",1400,jaipur,25,700.00,700.00
+Oasis,4.5,C Scheme,Multicuisine,1400,jaipur,30,770.00,630.00
+Sagar Ratna,4.2,C Scheme,South Indian,800,jaipur,10,280.00,520.00
+Souza Lobo - Since 1932,4.3,Calangute,Goan,1300,goa,0,0.00,1300.00
+Noah,3.5,Ozran Beach Road ,"European, Seafood, Sushi, Continental",1500,goa,0,0.00,1500.00
+Tanjore Tiffin Room,4.7,Anjuna,"Biryani, Finger Food, South Indian, Tamil Nadu",1000,goa,0,0.00,1000.00
+Clara (Beach Haven),2.3,Vagator,Multicuisine,1500,goa,0,0.00,1500.00
+Farzi Beach,3.8,Morjim,Multicuisine,1500,goa,0,0.00,1500.00
+Tamil Table,4.8,Assagao,Tamil Nadu,1200,goa,0,0.00,1200.00
+Anar,5.0,Anjuna,Middle Eastern,2000,goa,0,0.00,2000.00
+Tikitii,3.9,Morjim,Continental,2000,goa,0,0.00,2000.00
+Guldastaa Cafe,4.5,Anjuna,Regional Indian,1200,goa,0,0.00,1200.00
+Ederra Cafe,5.0,Panaji,Cafe,800,goa,0,0.00,800.00
+Backyard Restaurant & Bar,5.0,Calangute,Multicuisine,1500,goa,10,525.00,975.00
+Ole Bar,4.0,Morjim,Multicuisine,1500,goa,0,0.00,1500.00
+One Calangute,3.8,Calangute,Multicuisine,1000,goa,10,350.00,650.00
+Tom's Resto By The Beach,5.0,Calangute,Multicuisine,1000,goa,10,350.00,650.00
+Delhi Darbar,4.6,Candolim,North Indian,800,goa,10,280.00,520.00
+BunnyKins Cafe,4.0,Calangute,Multicuisine,900,goa,10,315.00,585.00
+Bharat Bar & Restaurant,4.0,Baga,Multicuisine,800,goa,25,400.00,400.00
+Novu Rooftop Dining,4.7,Fort Aguada Rd,Multicuisine,1200,goa,50,900.00,300.00
+GROK,4.2,Hyatt Centric Candolim Goa,Goan,1200,goa,35,720.00,480.00
+Bloom Cafe,4.0,Bloom Hotel ,Multicuisine,1200,goa,0,0.00,1200.00
+Cafe Fika,5.0,Panaji,Cafe,1000,goa,30,550.00,450.00
+Beans & Bistro,4.0,Calangute,"Cafe, Coffee",400,goa,10,140.00,260.00
+Oceana Restaurant,4.0,Calangute,"Indian, Continental",1000,goa,10,350.00,650.00
+Jazz Bistro,4.7,Calangute Baga Road,Multicuisine,1000,goa,0,250.00,750.00
+Krishna Bar & Restaurant,4.0,Calangute,Multicuisine,550,goa,0,0.00,550.00
+Spice It,5.0,ibis,Multicuisine,1000,goa,50,750.00,250.00
+Purple Martini,4.1,Anjuna,Multicuisine,2500,goa,0,0.00,2500.00
+Palms n Sands,4.1,Candolim,Multicuisine,2000,goa,0,0.00,2000.00
+Niche Bistro,5.0,Calangute,European,1500,goa,20,675.00,825.00
+The Fisherman's Wharf,4.2,Calangute,Goan,1100,goa,0,0.00,1100.00
+Kailash Parbat,4.7,Candolim,North Indian,600,goa,0,0.00,600.00
+Sizzler House,5.0,Anjuna Vagator Road,Multicuisine,700,goa,25,350.00,350.00
+Pepper Bar and Restaurant,4.0,Le Seasons Resort,Multicuisine,1200,goa,40,780.00,420.00
+You & Me,3.5,Baga,Multicuisine,900,goa,25,450.00,450.00
+Elrow Ocean Front,2.8,Calangute Baga Road,Asian,2000,goa,25,1000.00,1000.00
+Saffron,4.4,Arpora,Multicuisine,800,goa,25,400.00,400.00
+Saipe,5.0,Hilton Goa Resort,Multicuisine,2400,goa,35,1440.00,960.00
+Samudra Family Restaurant & Bar,5.0,Calangute,South Indian,500,goa,10,175.00,325.00
+Bean me Up,5.0,Vagator,Multicuisine,1200,goa,25,600.00,600.00
+Hibiscus,1.0,Arpora,Multicuisine,1000,goa,35,600.00,400.00
+Just Lobo's,4.7,Calangute,"Goan, Multicuisine",1000,goa,20,450.00,550.00
+Musuh- The Fire Place,4.0,Calangute,Multicuisine,600,goa,30,330.00,270.00
+De Little Goa,4.0,Calangute,Indian,1500,goa,15,600.00,900.00
+Pickled Mango,5.0,Bardez,Multicuisine,1600,goa,25,800.00,800.00
+The Square,5.0,Novotel Goa Shrem Hotel,Multicuisine,2000,goa,25,1000.00,1000.00
+Brisa Do Mar,4.8,Candolim,Mediterranean,1800,goa,50,1350.00,450.00
+La Cucina,4.8,Morjim,Italian,1500,goa,25,750.00,750.00
+Angry Sardar Courtyard,4.5,Anjuna,North Indian,1200,goa,15,480.00,720.00
+LOVE THE PARK,4.1,The Park Calangute Goa,Multicuisine,1200,goa,35,720.00,480.00
+Deck 88,4.0,The Astor Goa,Indian Coastal Cuisine,2500,goa,35,1500.00,1000.00
+Neighbors,4.5,Anjuna Mapusa Assagao Road,European,1800,goa,10,630.00,1170.00
+The Cube,4.0,Calangute,Multicuisine,1000,goa,15,400.00,600.00
+Wow! Momo,4.0,Candolim,Momos,400,goa,30,220.00,180.00
+Free 2 Fly,4.0,Baga,Multicuisine,2000,goa,10,700.00,1300.00
+Tribe,4.0,Renest Calangute,Multicuisine,1000,goa,10,350.00,650.00
+Pineapple Villa By Raddish,4.0,Arpora,Multicuisine,800,goa,10,280.00,520.00
+Medallion,4.0,Calangute,"Asian, Thai, Chinese",650,goa,10,227.50,422.50
+The Palms,4.5,Radisson Goa Candolim,Multicuisine,1400,goa,30,770.00,630.00
+Peace,4.4,The Park Calangute Goa,Multicuisine,1500,goa,25,750.00,750.00
+Biryani By Kilo,4.3,Panaji,"Biryani, Hyderabadi, Mughlai",900,goa,40,585.00,315.00
+Tereza Beach House By Sly Granny,4.3,Nerul,Multicuisine,1600,goa,20,720.00,880.00
+Fat Fish Anjuna,4.0,Anjuna,Multicuisine,1500,goa,10,525.00,975.00
+Big Fat Sandwich,5.0,Anjuna,Cafe,1200,goa,10,420.00,780.00
+Uptown,4.2,Candolim,Multicuisine,1200,goa,30,660.00,540.00
+Café De Port By Radisson Resort Goa Baga,4.9,Arpora,Multicuisine,2200,goa,30,1210.00,990.00
+The Boho Box,2.0,Calangute Baga Road,Multicuisine,800,goa,10,280.00,520.00
+Spice Mantraa,4.6,Candolim,Multicuisine,1200,goa,25,600.00,600.00
+Urban Indian,5.0,Arpora,Indian,1100,goa,20,495.00,605.00
+Rio Cafe Bar,4.8,Calangute,Continental,1000,goa,25,500.00,500.00
+Backdrop Community Bar & Kitchen,4.0,Calangute,Multicuisine,1000,goa,30,550.00,450.00
+Meraki Roof Top,4.0,Le Seasons Resort,Multicuisine,1200,goa,30,660.00,540.00
+Cafe De Port - Alfresco,5.0,Arpora,Multicuisine,2200,goa,25,1100.00,1100.00
+Kava - Fairfield by Marriott Calangute,5.0,Fairfield by Marriott Goa Calangute,Multicuisine,1000,goa,25,500.00,500.00
+Bar Asia,5.0,Novotel Goa Shrem Hotel,Finger Food,1500,goa,25,750.00,750.00
+Popistro,5.0,Calangute,Indian,500,goa,20,225.00,275.00
+Pirates Deck,4.0,Saligao,Indian,1000,goa,25,500.00,500.00
+CHY Lounge & Bar,4.0,Novotel Goa Resorts & Spa,Finger Food,1200,goa,25,600.00,600.00
+Julep,4.0,Calangute Baga Road,Multicuisine,2500,goa,25,1250.00,1250.00
+Aur Jalsa,5.0,Calangute Baga Road,"Indian, Rajasthani",4500,goa,20,2025.00,2475.00
+Urban Jungle,5.0,Saligao,"North Indian, Continental",1200,goa,20,540.00,660.00
+Southi,4.6,Candolim,South Indian,700,goa,10,245.00,455.00
+Aamchi - Maharashtrian Kitchen & Bar,5.0,Calangute,Maharashtrian,1200,goa,15,480.00,720.00
+Jolene by the Sea,3.1,Anjuna,Multicuisine,2000,goa,0,0.00,2000.00
+Mamagoto,4.2,Panaji,Pan Asian,1500,goa,20,675.00,825.00
+G-Shot Coffee Roastery & Cafe,4.4,Assagao,"Juices, Shakes",1100,goa,0,0.00,1100.00
+Olive Bar and Kitchen,4.5,Vagator,"European, Pizza",2000,goa,15,800.00,1200.00
+The Little Place,4.0,Candolim,Cafe,600,goa,15,240.00,360.00
+Richita,4.0,Calangute,"Indian, Multicuisine",800,goa,15,320.00,480.00
+Goa Gossips,4.0,Arpora,Multicuisine,1000,goa,15,400.00,600.00
+Sessions,4.7,Hard Rock Hotel Goa,"Beverages, Indian",2000,goa,10,700.00,1300.00
+Bistro Sun & Sea,5.0,Calangute,Goan,1000,goa,10,350.00,650.00
+Cafe Meu Lar by Barista,5.0,Panaji,"Coffee, Cafe",300,goa,40,195.00,105.00
+Ziba,4.7,Baga,Multicuisine,800,goa,10,280.00,520.00
+Harman Punjabi,4.0,Arpora,North Indian,500,goa,10,175.00,325.00
+Tonic Bar,4.3,Hard Rock Hotel Goa,Multicuisine,2000,goa,10,700.00,1300.00
+Casita Multi-Cuisine Restaurant,4.0,Bardez,Multicuisine,1500,goa,10,525.00,975.00
+Gypsea Beach Club,2.5,Anjuna Beach,Multicuisine,1700,goa,10,595.00,1105.00
+Aangan,4.4,Panaji,"Goan, Modern Indian",800,goa,10,280.00,520.00
+Nomad Pizza,4.0,Anjuna,"Beverages, Italian",1200,goa,40,780.00,420.00
+Mehek - Tandoor Works,4.1,Colva,Multicuisine,700,goa,25,350.00,350.00
+Bonita Goa,5.0,Arossim Beach,European,2000,goa,10,700.00,1300.00
+Jamun,4.3,Assagao,"North Indian, Seafood, South Indian, Beverages, Goan, Indian",1800,goa,20,810.00,990.00
+Chapter Two,5.0,Calangute,North Indian,700,goa,0,0.00,700.00
+The Ocean Grill,4.0,Calangute,"Chinese, Indian",600,goa,0,150.00,450.00
+Tipsy Pub,4.0,Arpora,Multicuisine,1400,goa,0,350.00,1050.00
+Jungle Cafe,4.3,Sangolda,Continental,700,goa,15,280.00,420.00
+Ping's Bia Hoi,4.4,Porvorim,"Beverages, Chinese, Finger Food, Thai, Pan Asian, Asian",1400,goa,15,560.00,840.00
+AKRA By Saga Stays,5.0,Baga,Multicuisine,1000,goa,0,0.00,1000.00
+Mama Miso,4.7,Arossim Beach,Pan Asian,2000,goa,10,700.00,1300.00
+Viva Lounge,5.0,Holiday Inn Candolim Goa,Multicuisine,1500,goa,25,750.00,750.00
+Uma By The Sea,5.0,Morjim,Multicuisine,2000,goa,15,800.00,1200.00
+Rashmi Restro & Bar,4.0,Calangute,Multicuisine,1500,goa,0,0.00,1500.00
+Cafe Mochasa,4.0,Candolim,Cafe,450,goa,0,0.00,450.00
+Bloom Cafe,4.0,Bloom Boutique,Multicuisine,1200,goa,0,0.00,1200.00
+The Bridge,4.0,DiVaN Clarks Inn,Multicuisine,1500,goa,0,0.00,1500.00
+Taste of Bharat,4.0,Arpora,North Indian,800,goa,0,0.00,800.00
+Bloom Cafe,4.0,Bloomrooms,Multicuisine,1200,goa,0,0.00,1200.00
+A Reverie,3.8,Calangute Baga Road,Fusion,2000,goa,0,0.00,2000.00
+Thalassa Beach Boutique Resort,4.0,Ashwem Beach,Multicuisine,4500,goa,0,0.00,4500.00
+Saltamontes,4.8,Anjuna,Multicuisine,800,goa,20,360.00,440.00
+Peep Kitchen,3.8,Panaji,Multicuisine,1000,goa,10,350.00,650.00
+Angry Sardar,4.2,Panaji,North Indian,1200,goa,10,420.00,780.00
+Maverick and Farmer Coffee,5.0,Anjuna,"Italian, Continental",1000,goa,10,350.00,650.00
+Lazy Goose,4.6,Nerul,"Seafood, European, Goan",1500,goa,25,750.00,750.00
+Waterfront Terrace and Bar,4.6,Goa Marriott Resort & Spa,Multicuisine,1500,goa,30,825.00,675.00
+Soi,4.5,Candolim,Goan,1500,goa,15,600.00,900.00
+The Sanctuary Bar & Kitchen,4.7,Anjuna,Multicuisine,1800,goa,30,990.00,810.00
+Toula Bar & Kitchen,5.0,Candolim,Italian,1500,goa,20,675.00,825.00
+Food Exchange,4.5,Novotel Goa Resorts & Spa,Multicuisine,2000,goa,25,1000.00,1000.00
+The Goan Room,4.5,Dona Paula Panaji,"Goan, Seafood, Cocktail Menu",1000,goa,20,450.00,550.00
+Zodiac - All Day Dining Benaulim,4.0,Fortune Resort Benaulim,"Seafood, Multicuisine",1100,goa,25,550.00,550.00
+Spice Goa,4.4,Sangolda,Multicuisine,1500,goa,0,0.00,1500.00
+Thai N Wok,5.0,Miramar,Thai,1100,goa,10,385.00,715.00
+Raeeth,3.2,Ozran Beach Road ,Mediterranean,1500,goa,10,525.00,975.00
+Saz on the Beach,2.5,Morjim,Multicuisine,1700,goa,30,935.00,765.00
+Bbq Company,3.3,Bailey Road,Multicuisine,1200,patna,0,0.00,1200.00
+Barbeque Company,4.1,Boring Road,"Multicuisine, Barbeque",1800,patna,0,0.00,1800.00
+Pirates Of Grill,4.2,Lodipur,Multicuisine,1800,patna,0,0.00,1800.00
+Barbeque Nation,4.5,Bailey Road,Multicuisine,1900,patna,0,0.00,1900.00
+True Kababs Flavour of Hyderabad,4.9,Sri Krishna Puri,Chinese,900,patna,0,0.00,900.00
+Patna Rasoi,4.3,Fraser Road Area,Multicuisine,600,patna,0,0.00,600.00
+Fiesta By Barbeque Nation,4.8,KP Mall,Multicuisine,1600,patna,0,0.00,1600.00
+The Spice Routes,4.0,Danapur,Multicuisine,1000,patna,0,0.00,1000.00
+Aaharam,4.0,Rukanpura,Indian,500,patna,0,0.00,500.00
+Traffic Jamm,4.0,Rukanpura,Multicuisine,500,patna,0,0.00,500.00
+Bloom kitchen,4.1,Kankarbagh,Multicuisine,700,patna,0,0.00,700.00
+Cafe Coca Mocha,4.0,Anisabad,Cafe,1000,patna,0,0.00,1000.00
+Prashant Pizza,4.0,Rajeev Nagar,Pizza,600,patna,0,0.00,600.00
+Dark Delight Restaurant & Cafe,4.3,Anandpuri,"Chinese, Indian",600,patna,0,0.00,600.00
+Hotel Star GloryRise,4.0,Kumhrar,Multicuisine,1000,patna,0,0.00,1000.00
+Batido The Shake Paradise,4.0,Rajeev Nagar,"Bakery, Cafe",500,patna,0,0.00,500.00
+Mahi Seven Star Restaurant,4.0,Machhua Toli,"Chinese, Indian",1000,patna,0,0.00,1000.00
+Foodiegram,2.0,Lodipur,Multicuisine,800,patna,0,0.00,800.00
+Heden Cafe,4.2,Sri Krishna Puri,Multicuisine,700,patna,40,455.00,245.00
+Cafe 13,4.0,Boring Road,"Chinese, Italian",800,patna,30,440.00,360.00
+The Atmos 3,4.0,Sri Krishna Puri,Indian,1000,patna,30,550.00,450.00
+Afraa,4.0,Lodipur,Multicuisine,1200,patna,25,600.00,600.00
+Bayleaf,3.7,Kaliket Nagar,"North Indian, Chinese",800,patna,50,600.00,200.00
+The Pacifique- Cafe & Lounge,2.5,Kankarbagh,Multicuisine,1200,patna,30,660.00,540.00
+The Downtown Cafe,3.5,Kankarbagh,Multicuisine,600,patna,40,390.00,210.00
+Tao Bao Indo-Korean Cafe,5.0,Bailey Road,Korean,1000,patna,10,350.00,650.00
+The Royal Jail Restro,4.3,Kaliket Nagar,Multicuisine,500,patna,30,275.00,225.00
+Proso Pyare,2.7,Danapur,Multicuisine,1000,patna,30,550.00,450.00
+Cafe Zodiac,4.3,Kankarbagh,Multicuisine,1000,patna,40,650.00,350.00
+Cafe Hideout,4.0,Bailey Road,Multicuisine,800,patna,20,360.00,440.00
+Pind The Revolving,3.7,Gandhi Maidan Rd,"Chinese, North Indian",1000,patna,15,400.00,600.00
+Persona,4.5,Patliputra Colony,Multicuisine,1200,patna,30,660.00,540.00
+AASMAN,4.1,Fraser Road Area,Multicuisine,2000,patna,20,900.00,1100.00
+Cafe the Cartel,4.0,Lodipur,Multicuisine,700,patna,30,385.00,315.00
+Cafe Skylite (Rooftop Lounge),4.2,Silkhouse Premier Hotel,Multicuisine,1000,patna,15,400.00,600.00
+LIGHTHOUSE CAFE,4.2,Lodipur,Multicuisine,1000,patna,15,400.00,600.00
+Kapil Dev's Elevens,4.3,Fraser Road Area,Multicuisine,1450,patna,25,725.00,725.00
+Harilal's,5.0,Sri Krishna Puri,Indian,400,patna,0,0.00,400.00
+Infinity Cafe,1.0,Lodipur,Multicuisine,800,patna,10,280.00,520.00
+Karim's Ashiana- Digha,4.2,Khajpura,Mughlai,400,patna,20,180.00,220.00
+Bikaner Elite,4.0,Anisabad,Multicuisine,1000,patna,15,400.00,600.00
+Café Amaayra- A Multi-Cuisine Kitchen,4.5,Khajpura,Multicuisine,1000,patna,10,350.00,650.00
+Kake - Da - Hotel,4.3,Danapur,Multicuisine,700,patna,20,315.00,385.00
+Dosa (by Dakshin) Chilli Cafe,4.0,Kankarbagh,"South Indian, Multicuisine",800,patna,40,520.00,280.00
+Biryani by Kilo,4.5,Patna,Biryani,700,patna,40,455.00,245.00
+Bihari Baithak,4.4,Kaliket Nagar,Multicuisine,800,patna,20,360.00,440.00
+Austaara,4.1,Kidwaipuri,Multicuisine,1500,patna,25,750.00,750.00
+La Casa Cafe,4.0,Patliputra Colony,Multicuisine,1000,patna,10,350.00,650.00
+Highway Junction,4.0,Mustafapur,"Chinese, North Indian",1000,patna,15,400.00,600.00
+Amrapali Cafe,4.0,Danapur,Indian,1000,patna,10,350.00,650.00
+Golden Flavour,3.9,Orchid Mall,Multicuisine,1000,patna,50,750.00,250.00
+Bikaner Elite,4.0,Danapur,Multicuisine,800,patna,15,320.00,480.00
+Brewmn Coffee,5.0,Kankarbagh,"Bakery, Cafe",700,patna,25,350.00,350.00
+Craft Coffee,4.8,Lodipur,"Cafe, Fast Food",700,patna,10,245.00,455.00
+Barkaas,4.6,Fraser Road Area,Arabian,1000,patna,10,350.00,650.00
+The Grind House,4.3,Kankarbagh,Multicuisine,1000,patna,25,500.00,500.00
+Regalia,4.0,Sri Krishna Puri,Multicuisine,1200,patna,15,480.00,720.00
+SSS Restaurant,4.0,Kankarbagh,Multicuisine,1000,patna,0,0.00,1000.00
+Vasa Cafe & Lounge,2.0,Boring Road,Multicuisine,1000,patna,20,450.00,550.00
+The Fifth Avenue,5.0,Lodipur,Italian,1000,patna,25,500.00,500.00
+AB's - Absolute Barbecues,4.5,Patna,"Multicuisine, Barbeque",1800,patna,0,450.00,1350.00
+Hotel President (Atithi Restaurant),4.0,Lodipur,Indian,1000,patna,25,500.00,500.00
+Garage Kitchen,5.0,Chitragupta Nagar,Multicuisine,1000,patna,50,750.00,250.00
+IFC (Indian Food Court),4.0,Ashok Rajpath Road,Indian,1000,patna,0,250.00,750.00
+Bikaner Elite,4.0,Rukanpura,Multicuisine,1000,patna,15,400.00,600.00
+Swaaddesh,4.1,Boring Road,Indian,750,patna,20,337.50,412.50
+Brewbites Cafe & Restaurant,4.0,Kaliket Nagar,Multicuisine,1000,patna,20,450.00,550.00
+Food Mohalla,4.0,Makhniya kuwa,Fast Food,300,patna,30,165.00,135.00
+Samsara,4.0,Patliputra Colony,Multicuisine,1000,patna,40,650.00,350.00
+Flavor Town,4.8,Gola Road,Multicuisine,700,patna,15,280.00,420.00
+Royal Thali Restro,5.0,Danapur,Multicuisine,1500,patna,15,600.00,900.00
+Imperial Biryani,5.0,Bailey Road,Multicuisine,600,patna,15,240.00,360.00
+Madhuram Restaurant & Cafe,4.0,Kankarbagh,Multicuisine,700,patna,10,245.00,455.00
+Amritsar Haveli,5.0,Kankarbagh,Indian,1500,patna,10,525.00,975.00
+Lal Miri,4.0,Bailey Road,"Chinese, Indian",600,patna,15,240.00,360.00
+Ten 11 Restaurant & Cafe,4.0,Danapur,Indian,1000,patna,15,400.00,600.00
+Berco's,5.0,Dujra Diara,"Indian, Thai, Chinese",1250,patna,30,687.50,562.50
+Quantum Quisiine Cafe and Restaurant,4.0,Danapur,Multicuisine,800,patna,10,280.00,520.00
+Biryani Blues,4.0,Sri Krishna Puri,Biryani,700,patna,25,350.00,350.00
+The Royal Haveli Cafe And Restaurant,4.0,Anisabad,Multicuisine,500,patna,30,275.00,225.00
+Mishri,5.0,Lodipur,Indian,1000,patna,25,500.00,500.00
+The Urban Backyard,5.0,Kankarbagh,Indian,1200,patna,25,600.00,600.00
+Afra Tafri Cafe & Restaurant,4.0,Raja Bazarr,Indian,800,patna,20,360.00,440.00
+Swaadh Restaurant & Cafe,4.0,Patliputra Colony,Indian,800,patna,15,320.00,480.00
+Flamingo Restaurant & Cafe,4.0,Kankarbagh,Indian,600,patna,25,300.00,300.00
+Wow! Momo,2.7,Bikhna Pahari,Momos,400,patna,30,220.00,180.00
+Eat Plan8,5.0,Patel Nagar,Multicuisine,600,patna,10,210.00,390.00
+Wow! China,2.5,City Centre Mall,Chinese,400,patna,30,220.00,180.00
+Biryani By Kilo,1.0,Anisabad,Biryani,1000,patna,40,650.00,350.00
+Calm Street Cafe,4.0,S. K. Puram,"Pizza, Burgers, Coffee",400,patna,15,160.00,240.00
+Royal Spice Restaurant,4.0,Khajpura,Indian,1200,patna,10,420.00,780.00
+Mast Magan,4.0,Danapur,Multicuisine,1000,patna,10,350.00,650.00
+Cookbook Cafe,4.4,Patliputra Colony,Multicuisine,1000,patna,25,500.00,500.00
+Kiara Restaurant And Cafe,5.0,Kankarbagh,Multicuisine,600,patna,10,210.00,390.00
+Ace Of Spades,4.0,Kankarbagh,Multicuisine,600,patna,15,240.00,360.00
+Kitchen & Co Restro & Cafe,5.0,Chitragupta Nagar,Indian,1000,patna,10,350.00,650.00
+La Fume Cafe And Restro,4.0,Boring Road,"Biryani, Mughlai, North Indian",800,patna,15,320.00,480.00
+Hotel Golden Crystal,4.0,Kankarbagh,Multicuisine,1000,patna,15,400.00,600.00
+City Lights Cafe,4.0,Sri Krishna Puri,Multicuisine,800,patna,20,360.00,440.00
+MW Bistro,4.0,Kurji,Multicuisine,750,patna,20,337.50,412.50
+2 Brother's Inn Restaurant,4.0,Kumhrar,"Chinese, Indian",700,patna,20,315.00,385.00
+Spice Grill,4.0,Sri Krishna Puri,Chinese,600,patna,15,240.00,360.00
+Tangerine,5.0,Hotel Ramta Continental,Multicuisine,800,patna,30,440.00,360.00
+Buddha Restaurant & Cafe,4.0,Buddha Resort,Multicuisine,1000,patna,20,450.00,550.00
+The Red Velvet,3.9,The Red Velvet Hotel Samarpan,Multicuisine,1500,patna,35,900.00,600.00
+Celienna- Tasty Dine,4.0,New Azimabad Colony,Multicuisine,600,patna,10,210.00,390.00
+Dishyum,5.0,Rukanpura,"Chinese, Indian",350,patna,10,122.50,227.50
+Crown Cafe  And Restaurant,4.0,Shivpuri,Indian,1000,patna,10,350.00,650.00
+Cafe Meet-Up,4.0,Mithapur,"Chinese, Indian",400,patna,10,140.00,260.00
+You Found Me,5.0,Boring Road,Multicuisine,1000,patna,0,250.00,750.00
+Ambrosia,4.3,The Red Velvet Hotel,Multicuisine,1500,patna,30,825.00,675.00
+Kalpana Sweets House,4.0,Mustafapur,Desserts,800,patna,10,280.00,520.00
+The Cloud Chef,4.0,Kautilya Nagar,"Indian, Chinese",300,patna,15,120.00,180.00
+The Napples,4.0,Hotel Amalfi Grand,Multicuisine,700,patna,10,245.00,455.00
+Chauka,4.3,Boring Road,Multicuisine,500,patna,10,175.00,325.00
+The Old Monk Cafe,5.0,Rukanpura,"Chinese, North Indian",600,patna,40,390.00,210.00
+Satvik (The Inside Kitchen),4.0,Maharana Pratap Bhawan,Multicuisine,600,patna,10,210.00,390.00
+Chicago Pizza,4.3,Patna,Pizza,500,patna,15,200.00,300.00
+MamaSexy - The Aer Bar,4.0,Raja Bazarr,Multicuisine,900,patna,10,315.00,585.00
+Sit n Dine,4.0,Khagaul,Multicuisine,700,patna,25,350.00,350.00
+POLIKA - Pure Veg Restaurant,4.0,Khajpura,"Chinese, Indian",1000,patna,15,400.00,600.00
+Shree Devanshilal,4.0,Chitragupta Nagar,Multicuisine,800,patna,0,0.00,800.00
+Kababs and Curries,5.0,Kankarbagh,Multicuisine,800,patna,10,280.00,520.00
+Cafe 21,4.0,Kankarbagh,Indian,600,patna,15,240.00,360.00
+Chilli Lime,5.0,Bankman Colony,Multicuisine,1000,patna,20,450.00,550.00
+Heaven Spices,5.0,Bailey Road,Multicuisine,700,patna,15,280.00,420.00
+Biryani Queen,4.0,Danapur,Biryani,1500,patna,20,675.00,825.00
+Pind Balluchi,3.1,Kaliket Nagar,"Chinese, Indian",1000,patna,10,350.00,650.00
+Lotus Restaurant,4.0,Danapur,Multicuisine,1000,patna,15,400.00,600.00
+Luv to serve cafe & resturant,5.0,Danapur,Multicuisine,700,patna,10,245.00,455.00
+Absolute Shawarma @ Patna,4.0,Ashiana,Shawarma,800,patna,10,280.00,520.00
+The Magic pan,4.0,Gola Road,Multicuisine,800,patna,15,320.00,480.00
+Yo! Pizza +,4.0,Bailey Road,Pizza,300,patna,10,105.00,195.00
+Wat-A-Burger,4.0,Khajpura,Multicuisine,700,patna,10,245.00,455.00
+Foodie Faves Cafe,4.0,Gokul path,Fast Food,500,patna,10,175.00,325.00
+Cray Craft,4.4,Andheri East,"Chinese, Indian",2000,mumbai,0,0.00,2000.00
+Mahesh Lunch Home,4.5,Juhu,Indian Coastal Cuisine,1200,mumbai,0,0.00,1200.00
+Taftoon Bar & Kitchen,4.3,Powai,Indian,2500,mumbai,0,0.00,2500.00
+Novaara,4.2,Malad West,Multicuisine,1800,mumbai,0,0.00,1800.00
+La Panthera,4.6,Bandra Kurla Complex (BKC),European,4000,mumbai,0,0.00,4000.00
+Si Nonna's - The Original Sourdough Pizza,4.7,Bandra Kurla Complex (BKC),Italian,1700,mumbai,0,0.00,1700.00
+The Tanjore Tiffin Room,4.4,Pali Hill,Tamil Nadu,1500,mumbai,0,0.00,1500.00
+Kitty Su,2.3,The Lalit,"Cocktail Menu, Drinks Only, Finger Food",2000,mumbai,0,0.00,2000.00
+Eve,4.7,Worli,Multicuisine,2500,mumbai,0,0.00,2500.00
+Baliboo,4.2,Goregaon East,Multicuisine,1800,mumbai,0,0.00,1800.00
+Blabber All Day,4.7,Borivali East,"Continental, Asian",1500,mumbai,0,0.00,1500.00
+The Caravan Menu,4.5,Panch Pakhadi,Multicuisine,2600,mumbai,0,0.00,2600.00
+Butterfly High,4.4,Bandra Kurla Complex (BKC),Modern Indian,1500,mumbai,0,0.00,1500.00
+Alfredo's,4.4,Hotel King's International,Continental,1500,mumbai,0,0.00,1500.00
+Golden Delicacy Restaurant & Banquets,3.8,Malad West,Multicuisine,1000,mumbai,0,0.00,1000.00
+Luuma House,4.6,Juhu,Multicuisine,2000,mumbai,0,0.00,2000.00
+Gigi,4.1,Bandra West,"European, Japanese",3100,mumbai,0,0.00,3100.00
+Taj Mahal Tea House,4.7,Bandra West,Multicuisine,1800,mumbai,0,0.00,1800.00
+Los Cavos,4.5,Bandra West,Peruvian,2000,mumbai,0,0.00,2000.00
+Papa Pancho da Dhaba,4.6,Bandra West,North Indian,800,mumbai,0,0.00,800.00
+Khyber,4.4,Fort,"Mughlai, North Indian",2500,mumbai,0,0.00,2500.00
+Earth Cafe @ BKC,4.7,Bandra Kurla Complex (BKC),European,1700,mumbai,0,0.00,1700.00
+The Coconut Boy,3.4,Bandra West,Goan,1200,mumbai,0,0.00,1200.00
+Ode,4.7,Worli,European,3000,mumbai,0,0.00,3000.00
+Ekaa,4.5,Fort,Modern Indian,4000,mumbai,0,0.00,4000.00
+Ditas,4.6,Lower Parel,European,2500,mumbai,0,0.00,2500.00
+On Toes Restaurant,4.4,Juhu,Multicuisine,1200,mumbai,0,0.00,1200.00
+La Loca Maria,4.6,Bandra West,Spanish,4000,mumbai,0,0.00,4000.00
+The Nest,4.2,Bandra West,Multicuisine,1800,mumbai,0,0.00,1800.00
+On Toes Pub,4.8,Juhu,Multicuisine,1200,mumbai,0,0.00,1200.00
+Mirage,4.2,Krishna Curve,"Japanese, Asian",3500,mumbai,0,0.00,3500.00
+The Fuchsia Loft,5.0,Hotel King's International,North Indian,1800,mumbai,0,0.00,1800.00
+The Brasserie BY HILTON MUMBAI,4.2,Hilton Mumbai,Multicuisine,2200,mumbai,50,1650.00,550.00
+Cacao- A Restrobar,4.0,Aralia International Airport,"Mexican, Indian, Italian",1200,mumbai,30,660.00,540.00
+Fusion Ville,4.2,Marol,Multicuisine,1200,mumbai,25,600.00,600.00
+Barista Coffee,4.0,Andheri East,"Cafe, Coffee",500,mumbai,40,325.00,175.00
+Zytun- The Restaurant,4.3,Hotel Metropolis,Multicuisine,1200,mumbai,25,600.00,600.00
+24/7 Restaurant,4.4,The Lalit,"Multicuisine, Bengali",3500,mumbai,25,1750.00,1750.00
+Banjara,4.1,Goldfinch Hotel,Multicuisine,2500,mumbai,55,2000.00,500.00
+Fiona,4.2,Radisson Blu Mumbai International Airport,"Cocktail Menu, Multicuisine",3000,mumbai,50,2250.00,750.00
+British Brewing Company,4.1,Marol,"Cocktail Menu, Multicuisine",1500,mumbai,10,525.00,975.00
+Kohana,4.5,Powai,Multicuisine,3500,mumbai,15,1400.00,2100.00
+Global Coffee House & Eatery,4.0,Bloom Hotel - Saki Vihar,Multicuisine,2500,mumbai,50,1875.00,625.00
+Food Exchange By Novotel,4.3,Novotel Mumbai International Airport,Multicuisine,2000,mumbai,30,1100.00,900.00
+Something's Fishy,4.6,Tunga International,Seafood,1700,mumbai,10,595.00,1105.00
+Uttam Da Dhaba,4.3,Marol,South Indian,1200,mumbai,10,420.00,780.00
+Lake View Cafe,4.4,The Westin Mumbai Powai Lake,Multicuisine,3000,mumbai,25,1500.00,1500.00
+"Castor Bistro Café By Aralia – A Business Hotel, Midc",4.6,Andheri East,Multicuisine,1200,mumbai,0,0.00,1200.00
+Heritage Kitchen & Bar,3.6,Andheri East,Multicuisine,1000,mumbai,20,450.00,550.00
+Navya,4.5,The Regale by Tunga,Multicuisine,850,mumbai,25,425.00,425.00
+Bayroute,4.6,Powai,"Mediterranean, Cocktail Menu",3000,mumbai,15,1200.00,1800.00
+Saptami,4.4,Holiday Inn Mumbai International Airport,Multicuisine,2000,mumbai,50,1500.00,500.00
+Gourmet Bar By Novotel,4.8,Novotel Mumbai International Airport,Modern Indian,2500,mumbai,35,1500.00,1000.00
+Fly Kitchen and Bar,1.0,Andheri East,Multicuisine,1700,mumbai,20,765.00,935.00
+Mado Mado,4.3,Fairfield by Marriott Mumbai International Airport,Multicuisine,3000,mumbai,50,2250.00,750.00
+ARC Powai- Lounge & Rooftop,4.6,Powai,Multicuisine,1500,mumbai,25,750.00,750.00
+Shetty Lounge,4.0,Marol,"Chinese, Indian",1600,mumbai,10,560.00,1040.00
+Madeleine De Proust,5.0,Fairmont,Multicuisine,2000,mumbai,25,1000.00,1000.00
+JW Cafe,4.5,JW Marriott Mumbai Sahar,Multicuisine,4000,mumbai,25,2000.00,2000.00
+Gallery Cafe,4.3,Radisson Mumbai Andheri MIDC,Multicuisine,2500,mumbai,55,2000.00,500.00
+MoMo Cafe,4.3,Courtyard Mumbai International Airport,Multicuisine,3000,mumbai,30,1650.00,1350.00
+Lounge Bar BY HILTON MUMBAI,4.1,Hilton Mumbai,"Cocktail Menu, Finger Food",2000,mumbai,30,1100.00,900.00
+Berlin Brew,4.9,Marol,Multicuisine,1000,mumbai,15,400.00,600.00
+Gola Sizzlers,3.8,Andheri East,Multicuisine,1500,mumbai,15,600.00,900.00
+The Finch,4.3,Andheri East,Multicuisine,1600,mumbai,25,800.00,800.00
+72 Bar,4.3,Holiday Inn Mumbai International Airport,"Cocktail Menu, Finger Food",2000,mumbai,50,1500.00,500.00
+Nosh & Beyond,4.3,Andheri East,"Italian, Multicuisine, Continental",1200,mumbai,10,420.00,780.00
+Dhaba,5.0,Marol,Multicuisine,800,mumbai,10,280.00,520.00
+190 AMSL By Novotel,4.8,Novotel Mumbai International Airport,"Asian, Continental",995,mumbai,30,547.25,447.75
+Mayouchi,4.5,The Westin Mumbai Powai Lake,"Japanese, oriental",2000,mumbai,25,1000.00,1000.00
+Ark 2.0,4.8,Courtyard Mumbai International Airport,"Finger Food, Cocktail Menu",3500,mumbai,40,2275.00,1225.00
+Opa! Bar & Café,4.1,The Peninsula Grand Hotel,"Cocktail Menu, Multicuisine",1500,mumbai,20,675.00,825.00
+Ummrao,4.4,Courtyard Mumbai International Airport,Indian,1500,mumbai,30,825.00,675.00
+Citrus,4.4,The Leela,European,3000,mumbai,25,1500.00,1500.00
+The Bigg Small Cafe + Bar,4.2,Sakinaka,"Cocktail Menu, Multicuisine",1400,mumbai,15,560.00,840.00
+Pickle & Pint,4.5,The Paradise By Tunga,"Cocktail Menu, Multicuisine",1400,mumbai,15,560.00,840.00
+The Sassy Spoon,4.5,Powai,"American, Beverages, European, Healthy Food, Italian, Mediterranean, Modern Indian, Asian, Desserts, Continental",1800,mumbai,20,810.00,990.00
+Brew Code- Holiday Inn,5.0,Holiday Inn Mumbai International Airport,"Bakery, Cafe",800,mumbai,50,600.00,200.00
+Deli Shop BY HILTON MUMBAI,5.0,Hilton Mumbai,Bakery,800,mumbai,50,600.00,200.00
+Asia Kitchen By Mainland China,4.4,Sakinaka,Pan Asian,1200,mumbai,20,540.00,660.00
+Indriya Mishran,5.0,Andheri East,Multicuisine,1600,mumbai,15,640.00,960.00
+ChimiChurri,4.5,Marol,Cocktail Menu,1700,mumbai,0,0.00,1700.00
+Foo Powai,4.5,Powai,"Chinese, Asian",2000,mumbai,0,500.00,1500.00
+Toast - Bistro & Bar,4.4,Marol,"Finger Food, Cocktail Menu",2000,mumbai,15,800.00,1200.00
+IC BY HILTON MUMBAI,4.5,Hilton Mumbai,Pan Asian,1800,mumbai,30,990.00,810.00
+Jw Lounge,5.0,JW Marriott Mumbai Sahar,Cocktail Menu,3500,mumbai,25,1750.00,1750.00
+Whats Your Plan ?,4.7,Sakinaka,"Multicuisine, Asian",1600,mumbai,25,800.00,800.00
+OKO,4.0,The Lalit,Pan Asian,4000,mumbai,25,2000.00,2000.00
+Malhar Tribes,4.5,Marol,Multicuisine,1600,mumbai,10,560.00,1040.00
+LVEL Bar & Diner,4.0,Sakinaka,Finger Food,1800,mumbai,20,810.00,990.00
+Naans & Noodles,4.5,Hotel Yogi Midtown,Chinese,1300,mumbai,35,780.00,520.00
+Roots Of India,4.5,Marol,Multicuisine,1200,mumbai,15,480.00,720.00
+Pop Tate's,4.5,Sakinaka,Multicuisine,1000,mumbai,0,0.00,1000.00
+Ice Cream Works Gold,5.0,Powai,"Ice Cream, Desserts",400,mumbai,25,200.00,200.00
+The Stables,4.2,Hotel Peninsula Redpine,"Cocktail Menu, Multicuisine",1500,mumbai,15,600.00,900.00
+Tattva Bar & Cafe Mumbai,4.5,Hotel Peninsula Redpine,"Cocktail Menu, Multicuisine",1800,mumbai,15,720.00,1080.00
+Coco Café by Cococart,4.8,Oberoi Mall,Cafe,800,mumbai,35,480.00,320.00
+Episode One,4.3,Powai,Finger Food,1400,mumbai,25,700.00,700.00
+Lotus Cafe,4.5,JW Marriott Mumbai Juhu,Multicuisine,2800,mumbai,20,1260.00,1540.00
+Bisou,3.5,Fairfield by Marriott Mumbai International Airport,"Finger Food, Cocktail Menu",2000,mumbai,30,1100.00,900.00
+SMOOR,4.6,Powai,European,600,mumbai,10,210.00,390.00
+Baluchi,4.4,The Lalit,North Indian,3500,mumbai,25,1750.00,1750.00
+Tiara Restaurant & Bar,4.4,Meluha The Fern,Multicuisine,2500,mumbai,30,1375.00,1125.00
+Avartana,5.0,ITC Maratha,Indian,5000,mumbai,10,1750.00,3250.00
+Apna Dhaba,3.4,Chakala,North Indian,800,mumbai,10,280.00,520.00
+Corkage & Co,4.6,Andheri East,"Chinese, Italian, oriental",1600,mumbai,10,560.00,1040.00
+The Game Ranch,4.3,Powai,Multicuisine,2400,mumbai,15,960.00,1440.00
+Wow! Momo,5.0,Andheri East,Momos,400,mumbai,30,220.00,180.00
+The Great Wall,4.8,The Leela,Chinese,3200,mumbai,25,1600.00,1600.00
+Peshawri,4.4,ITC Maratha,"Indian, North West Frontier",4000,mumbai,10,1400.00,2600.00
+iaa by Tunga,4.8,Tunga International,Indian,1200,mumbai,10,420.00,780.00
+Punjab Grill,4.1,Phoenix Market City,North Indian,1600,mumbai,30,880.00,720.00
+SPICE OASIS,4.1,IRA BY ORCHID HOTELS,Multicuisine,1200,mumbai,25,600.00,600.00
+Citrus Cafe,3.3,Lemon Tree Premier,Multicuisine,1800,mumbai,50,1350.00,450.00
+Gurukripa,4.5,Powai,Indian,1400,mumbai,10,490.00,910.00
+The Earth Plate - Global Cuisine,4.3,Sahara Star,Multicuisine,4500,mumbai,30,2475.00,2025.00
+Fisherman's Cove - Taste On Palate,4.3,Chandivali,"Seafood, Multicuisine",800,mumbai,15,320.00,480.00
+Nawab Saheb,4.4,The Westin Mumbai Powai Lake,Awadhi,5000,mumbai,25,2500.00,2500.00
+Malvan Tadka,5.0,Marol,Multicuisine,1200,mumbai,10,420.00,780.00
+True Tramm Trunk BKC,4.1,Bandra Kurla Complex (BKC),"Finger Food, Cocktail Menu",2600,mumbai,15,1040.00,1560.00
+The Barn Grill,5.0,Andheri East,American,1000,mumbai,10,350.00,650.00
+Waikiki,4.0,The Peninsula Grand Hotel,"Peruvian, Japanese, Finger Food",1500,mumbai,20,675.00,825.00
+Spotlight Skydeck,4.4,Wagle Estate,Multicuisine,1400,mumbai,30,770.00,630.00
+Beluga,5.0,The Lalit,"Finger Food, Cocktail Menu",2500,mumbai,25,1250.00,1250.00
+Spice It,3.3,Vikhroli,Multicuisine,1700,mumbai,50,1275.00,425.00
+Bombay Adda,5.0,Andheri East,Multicuisine,1500,mumbai,20,675.00,825.00
+Banana Leaf,4.5,Malad West,South Indian,500,mumbai,10,175.00,325.00
+House Of Asia,3.7,Hotel Mirador,Pan Asian,2500,mumbai,25,1250.00,1250.00
+Aromas Cafe & Bistro,4.4,Linking Road,"Cafe, Continental",1000,mumbai,25,500.00,500.00
+Fame Garden Prive,4.4,Powai,European,2500,mumbai,20,1125.00,1375.00
+Qebab Quisine,3.8,Radisson Mumbai Andheri MIDC,"Mughlai, North Indian",2400,mumbai,35,1440.00,960.00
+Gopalas Veg Kitchen,3.5,Kanjurmarg West,"South Indian, North Indian",800,mumbai,25,400.00,400.00
+House of Mandarin,4.4,Powai,Pan Asian,1800,mumbai,0,450.00,1350.00
+Eat Around the Corner,4.8,Bandra West,Continental,2200,mumbai,15,880.00,1320.00
+Thyme & Whisk,4.1,Mulund West,Multicuisine,1300,mumbai,10,455.00,845.00
+Utse Kitchen,5.0,Shivajinagar,Asian,1500,bengaluru,0,0.00,1500.00
+Nasi and Mee,4.7,Richmond Town,Asian,2000,bengaluru,0,0.00,2000.00
+Chin Lung Resto Bar,4.5,Residency Road,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Öz By Kebapci,4.5,UB City,Turkish,2000,bengaluru,0,0.00,2000.00
+The Reservoire Cocktail Bar & Kitchen,4.6,12th main,Multicuisine,2000,bengaluru,0,0.00,2000.00
+KoMaama Korean Restaurant,4.0,Brigade Road,Korean,2000,bengaluru,0,0.00,2000.00
+Jollygunj,4.2,JP Nagar,Indian,1800,bengaluru,0,0.00,1800.00
+"Atlantis - Brewpub, Cocktails & Kitchen",4.2,HSR,Multicuisine,2000,bengaluru,0,0.00,2000.00
+one8 Commune,3.8,MG Road,Multicuisine,2800,bengaluru,0,0.00,2800.00
+Juliet,3.8,1MG Road Mall,"European, Asian",3000,bengaluru,0,0.00,3000.00
+46 Ounces Brewgarden,4.7,Electronic City,"Multicuisine, Cocktail Menu",2000,bengaluru,30,1100.00,900.00
+Brau Galie Microbrewery,4.6,Koramangala 5th Block,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Helen's Place,4.3,Marathahalli,Multicuisine,2500,bengaluru,0,0.00,2500.00
+Maverick & Farmer Coffee,4.5,Ulsoor,Cafe,2000,bengaluru,0,0.00,2000.00
+Chin Lung Brewery - Indiranagar,4.6,Indiranagar,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Daddy,4.1,12th main,"Cocktail Menu, Pan Asian",2000,bengaluru,0,0.00,2000.00
+Yuki Cocktail Bar & Kitchen,4.7,100 Feet Road,"Cocktail Menu, Pan Asian, Asian",2000,bengaluru,0,0.00,2000.00
+The Founders Brewery,4.7,New BEL Road,"North Indian, Chinese",2000,bengaluru,0,0.00,2000.00
+BLR Brewing Co,4.4,Whitefield,Multicuisine,2000,bengaluru,0,500.00,1500.00
+William John's Pizza,4.9,Horamavu,"American, Italian",2000,bengaluru,0,0.00,2000.00
+Yuki - Brewhouse and Kitchen,4.6,Koramangala,"Cocktail Menu, Pan Asian",2000,bengaluru,0,0.00,2000.00
+DISTRICT 6,4.4,Rajajinagar,"Cocktail Menu, Multicuisine",2000,bengaluru,0,0.00,2000.00
+Maize & Malt,4.6,Krishnarajapuram Hobli,Multicuisine,2000,bengaluru,10,700.00,1300.00
+Koreyaki,3.8,Indiranagar,Korean,2000,bengaluru,0,0.00,2000.00
+1 BHK - Bar House Kitchen,4.4,Koramangala,Multicuisine,2000,bengaluru,0,0.00,2000.00
+1522 - The Pub,4.4,Malleshwaram,"European, Finger Food, North Indian, Indian Coastal Cuisine, Chicken, Barbeque",2500,bengaluru,0,0.00,2500.00
+The Scene - Craft Kitchen & Bar,4.0,JP Nagar,Multicuisine,2000,bengaluru,0,0.00,2000.00
+The Fisherman's Wharf,4.5,Sarjapur Road,"Indian Coastal Cuisine, Multicuisine, Seafood",2000,bengaluru,0,0.00,2000.00
+Nusa - Tropical Brewvilla,4.1,Gunjur Village,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Chairman's Restobar,4.5,Chikkabanavara,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Oia,4.2,Hennur,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Yuki - Pan Asian Kitchen and Bar,4.5,JP Nagar,Pan Asian,2000,bengaluru,0,0.00,2000.00
+Garden by su,4.4,Jayanagar,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Byg Brewski - Sarjapur,4.5,Sarjapur Road,Multicuisine,2000,bengaluru,0,0.00,2000.00
+MisoSexy,4.3,12th main,"Pan Asian, Asian",2000,bengaluru,0,0.00,2000.00
+Toca,3.9,Koramangala,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Subz,4.4,Jayanagar,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Gaia - Global Vegetarian,4.7,JP Nagar,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Masala Mandi,4.2,Sarjapur Road,Barbeque,2000,bengaluru,0,0.00,2000.00
+Savera Lassi Shop,4.7,Shivajinagar,"Ice Cream, Beverages",2000,bengaluru,10,700.00,1300.00
+My Breakfast,4.0,Shivajinagar,Multicuisine,2000,bengaluru,10,700.00,1300.00
+Masha Allah Hot And Cool Point,4.0,Shivajinagar,Fast Food,2000,bengaluru,10,700.00,1300.00
+Tipsy Cafe,4.0,Shivajinagar,Fast Food,2000,bengaluru,10,700.00,1300.00
+Shahi Restaurant,3.0,Shivajinagar,Multicuisine,2000,bengaluru,10,700.00,1300.00
+Main Lassi Shop,1.0,Shivajinagar,Multicuisine,2000,bengaluru,10,700.00,1300.00
+Maggi Baba,5.0,Shivajinagar,Beverages,2000,bengaluru,0,0.00,2000.00
+Romeo Cafe,4.0,Shivajinagar,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Dindigul Thalappakatti,5.0,MG Road,Multicuisine,950,bengaluru,0,0.00,950.00
+Trippy Goat Cafe,4.3,Vasanth Nagar,"Coffee and Tea, European",2000,bengaluru,10,700.00,1300.00
+The Biere Club,4.4,Lavelle Road,"Cocktail Menu, Multicuisine",2000,bengaluru,40,1300.00,700.00
+Hatti Kaapi,5.0,Infantry Road,Multicuisine,400,bengaluru,10,140.00,260.00
+Flo,3.4,Church Street,"Multicuisine, Cocktail Menu",2000,bengaluru,45,1400.00,600.00
+Juliana's,5.0,Infantry Road,"European, Pan Asian, Continental",1400,bengaluru,0,0.00,1400.00
+SkyDeck By Sherlock's,4.1,MG Road,Multicuisine,2000,bengaluru,25,1000.00,1000.00
+Vapour Pub & Brewery,3.9,100 Feet Road,Multicuisine,2000,bengaluru,50,1500.00,500.00
+Lumara Bar & Kitchen,4.3,Old Madras Road,Multicuisine,2500,bengaluru,20,1125.00,1375.00
+Burnout Cafe,3.9,Infantry Road,"Chinese, Multicuisine, Continental",2000,bengaluru,20,900.00,1100.00
+Punjab Grill,4.2,Ashok Nagar,North Indian,2000,bengaluru,25,1000.00,1000.00
+Rolls On Wheels,4.0,Cunningham Road,"Chinese, Fast Food",500,bengaluru,15,200.00,300.00
+Arbor Brewing Company,4.4,Brigade Road,Multicuisine,1800,bengaluru,0,0.00,1800.00
+Bazaar,4.0,Zone By The Park Infantry Bengaluru,Multicuisine,2500,bengaluru,10,875.00,1625.00
+Café Azzure,4.2,MG Road,European,2000,bengaluru,20,900.00,1100.00
+Nothing Before Coffee,4.0,Richmond Town,Cafe,2000,bengaluru,20,900.00,1100.00
+Raahi Neo Kitchen & Bar,4.5,Ashok Nagar,Indian,2500,bengaluru,50,1875.00,625.00
+By Chance,4.4,Brigade Road,Multicuisine,1500,bengaluru,50,1125.00,375.00
+Tiamo,4.4,Conrad Bengaluru,Multicuisine,2250,bengaluru,20,1012.50,1237.50
+Aqua,3.7,The Park,Multicuisine,2500,bengaluru,30,1375.00,1125.00
+Kari Theory,3.9,Radisson Bengaluru City Center,"Cocktail Menu, Multicuisine",2500,bengaluru,50,1875.00,625.00
+ShakesBierre,4.4,MG Road,"Cocktail Menu, Multicuisine",2000,bengaluru,30,1100.00,900.00
+Levista Gourmet Studio,5.0,Church Street,American,2000,bengaluru,30,1100.00,900.00
+Barista Coffee,4.4,Sadashiv Nagar,"Cafe, Coffee",2000,bengaluru,40,1300.00,700.00
+Muro India,4.5,Museum Road,"Thai, Cantonese",5000,bengaluru,0,0.00,5000.00
+Kake Di Hatti,5.0,Brigade Road,North Indian,2000,bengaluru,15,800.00,1200.00
+Zodiac - The Fortune Palace,4.0,Fortune Select JP Cosmos,Multicuisine,1800,bengaluru,40,1170.00,630.00
+SMOOR,4.4,Lavelle Road,European,2000,bengaluru,10,700.00,1300.00
+JW Kitchen,4.4,JW Marriott,Multicuisine,2500,bengaluru,50,1875.00,625.00
+Monsoon,3.8,The Park,Multicuisine,2000,bengaluru,30,1100.00,900.00
+The Brew Factory - Brewery Pub & Kitchen,4.5,Peenya,Multicuisine,2000,bengaluru,30,1100.00,900.00
+Blah Bla (Indigo XP),3.9,Koramangala,Multicuisine,2000,bengaluru,50,1500.00,500.00
+Ging,4.3,Royal Orchid Central,"oriental, Cocktail Menu",2500,bengaluru,25,1250.00,1250.00
+Maayaa,4.4,The Courtyard by Sublime,South Indian,2000,bengaluru,50,1500.00,500.00
+Hatti Kaapi - Signature,5.0,Lavelle Road,Multicuisine,600,bengaluru,10,210.00,390.00
+Matsuri,4.6,The Chancery Hotel,"Japanese, Sushi",2000,bengaluru,15,800.00,1200.00
+"Anthara - Taproom, Cafe & Kitchen",5.0,Doddanekkundi,"American, French",800,bengaluru,30,440.00,360.00
+No Limmits Lounge & Club,3.5,Brigade Road,Multicuisine,2000,bengaluru,40,1300.00,700.00
+Sharief Bhai Biryani,4.4,Frazer Town,Hyderabadi,2000,bengaluru,15,800.00,1200.00
+The Golden Circle Brewery,4.1,Doddakannelli,Multicuisine,2000,bengaluru,25,1000.00,1000.00
+Sozo Skyline Dining,4.3,Ashok Nagar,"Cocktail Menu, Pan Asian",2000,bengaluru,25,1000.00,1000.00
+Hard Rock Cafe,4.5,St. Marks Road,"Multicuisine, Burgers",2500,bengaluru,20,1125.00,1375.00
+Ta'aam,5.0,Cunningham Road,"Arabian, North Indian",600,bengaluru,0,0.00,600.00
+The Kabab Studio,3.9,Goldfinch Hotel,North Indian,2000,bengaluru,50,1500.00,500.00
+Kling Brewery,4.4,Church Street,Multicuisine,2000,bengaluru,10,700.00,1300.00
+Be Luru Craft Kitchen & Bar,3.7,Sankey Road,"Indian, Asian",2000,bengaluru,50,1500.00,500.00
+Sanchez & Sriracha,4.2,UB City,Mexican,2000,bengaluru,10,700.00,1300.00
+New Kudla Family Restaurant,4.0,MG Road,"North Indian, Chinese",2000,bengaluru,50,1500.00,500.00
+Monarch Cafe,4.0,Infantry Road,Multicuisine,2000,bengaluru,0,0.00,2000.00
+Cafe Adams,4.0,Shivajinagar,European,2000,bengaluru,0,0.00,2000.00
+Ihmiets Momos,4.0,Old Madras Road,Momos,2000,bengaluru,50,1500.00,500.00
+CBD Central Bar District,5.0,MSR Nagar,Multicuisine,1200,bengaluru,20,540.00,660.00
+Zest,4.7,Southern Star,Multicuisine,2000,bengaluru,0,500.00,1500.00
+High Ultra Lounge,4.3,Sheraton Grand Bangalore at Brigade Gateway,Multicuisine,2000,bengaluru,50,1500.00,500.00
+Don't Tell Mama,4.1,HSR,Multicuisine,2000,bengaluru,50,1500.00,500.00
+Dishkeyaun,4.1,Forum Rex Walk,"Indian, Fusion, Asian",2000,bengaluru,30,1100.00,900.00
+Foo Brigade Road,4.5,Brigade Road,"Chinese, Pan Asian, Asian",2500,bengaluru,0,625.00,1875.00
+Blanc The Coffee Place,5.0,Gandhi Nagar,European,1000,bengaluru,30,550.00,450.00
+Gatsby,4.4,Bannerghatta Road,Multicuisine,2000,bengaluru,25,1000.00,1000.00
+Smoke House Deli,4.4,Lavelle Road,European,2000,bengaluru,20,900.00,1100.00
+The Market,4.5,The Ritz-Carlton,"All Day Dining, Multicuisine",4000,bengaluru,30,2200.00,1800.00
+Vapour Brewpub & Diner,4.4,Sarjapur Road,Multicuisine,2000,bengaluru,50,1500.00,500.00
+Caraway Kitchen,4.4,Conrad Bengaluru,Multicuisine,2800,bengaluru,15,1120.00,1680.00
+"Salt - Pan Indian Restaurant, Bar & Grill",4.3,UB City,"Indian, Cocktail Menu",2000,bengaluru,10,700.00,1300.00
+The Big Barbeque,3.9,Marathahalli,"Barbeque, Multicuisine",2000,bengaluru,0,0.00,2000.00
+Barbecue by Punjab Grill,4.0,Mantri Square,"Beverages, Finger Food, Biryani",2000,bengaluru,30,1100.00,900.00
+Pinxx,4.2,Royal Orchid Central,Multicuisine,2400,bengaluru,25,1200.00,1200.00
+Church Street Social,4.2,Church Street,Multicuisine,2000,bengaluru,20,900.00,1100.00
+LIT Gastropub,3.9,Church Street,Multicuisine,2000,bengaluru,20,900.00,1100.00
+Coffee Brew Hub,4.0,Residency Road,Multicuisine,1000,bengaluru,10,350.00,650.00
+Alchemy,4.5,The Chancery Pavilion,"Indian, Fusion",2500,bengaluru,20,1125.00,1375.00
+Alba,4.1,JW Marriott,Italian,3500,bengaluru,20,1575.00,1925.00
+Street Storyss,5.0,Brigade Road,Multicuisine,1500,bengaluru,10,525.00,975.00
+SodaBottleOpenerWala,4.4,Lavelle Road,Parsi,2000,bengaluru,15,800.00,1200.00
+The Rice Bowl,4.3,Southern Star,"Chinese, Asian",1500,bengaluru,10,525.00,975.00
+Gufha Restaurant,4.6,Guttahalli,Multicuisine,2000,bengaluru,10,700.00,1300.00
+Indian Durbar,4.4,Conrad Bengaluru,"Indian, North Indian",3000,bengaluru,15,1200.00,1800.00
+Zodiac,4.2,Fortune Select JP Cosmos,Multicuisine,2000,bengaluru,25,1000.00,1000.00
+Easy Tiger,4.2,Church Street,"Cocktail Menu, American",2000,bengaluru,20,900.00,1100.00
+Sana-Di-Ge,4.4,Goldfinch Hotel,"Biryani, Seafood, Regional Indian",2000,bengaluru,30,1100.00,900.00
+Scottish Pub,4.9,St. Marks Road,Multicuisine,2000,bengaluru,20,900.00,1100.00
+Wow! China,4.0,Church Street,Chinese,2000,bengaluru,30,1100.00,900.00
+KA 01 - Rooftop Bar & Eats,4.4,Ibis Hotel,"Indian, Cocktail Menu",2000,bengaluru,50,1500.00,500.00
+Kenzai - Asian Kitchen And Lounge,4.6,Brigade Road,Asian,2000,bengaluru,25,1000.00,1000.00
+Cahoots Classic Bar House,5.0,Brigade Road,Multicuisine,4000,bengaluru,10,1400.00,2600.00
+i-Bar,3.8,The Park,Cocktail Menu,2000,bengaluru,30,1100.00,900.00
+Sea Rock Family Restaurant & Bar,4.7,Seshadripuram,Multicuisine,2000,bengaluru,10,700.00,1300.00
+Badmaash UB City,4.3,UB City,Indian,2000,bengaluru,25,1000.00,1000.00
